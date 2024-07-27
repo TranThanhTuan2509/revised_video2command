@@ -55,17 +55,18 @@ Video understanding using CNNs and RNNs provides a significant advantage in solv
 - Prepare the results for evaluation: `python prepare_evaluation_format.py` in `$VC_Folder/evaluation` folder
 - Evaluate: `python cocoeval.py` in `$VC_Folder/evaluation` folder
 
-
-If you find this code useful in your research, please consider citing:
-
-	@inproceedings{nguyen2018translating,
-	  title={Translating videos to commands for robotic manipulation with deep recurrent neural networks},
-	  author={Nguyen, Anh and Kanoulas, Dimitrios and Muratore, Luca and Caldwell, Darwin G and Tsagarakis, Nikos G},
-	  booktitle={2018 IEEE International Conference on Robotics and Automation (ICRA)},
-	  year={2018},
-	  organization={IEEE}
-	}
+		
+		@inproceedings{nguyen2018translating,
+		  title={Translating videos to commands for robotic manipulation with deep recurrent neural networks},
+		  author={Nguyen, Anh and Kanoulas, Dimitrios and Muratore, Luca and Caldwell, Darwin G and Tsagarakis, Nikos G},
+		  booktitle={2018 IEEE International Conference on Robotics and Automation (ICRA)},
+		  year={2018},
+		  organization={IEEE}
+		}
 
 
 ### Contact
-If you have any questions or comments, please send an to `anh.nguyen@iit.it`
+If you have any questions or comments, please send an to `22023506@vnu.edu.vn`
+
+
+Original author contact is `anh.nguyen@iit.it`
