@@ -1,6 +1,5 @@
 ## [Translating Videos to Commands for Robotic Manipulation with Deep Recurrent Neural Networks](https://arxiv.org/pdf/1710.00290.pdf)
-Video understanding using CNNs and RNNs provides a significant advantage in solving imitation learning problems for robotic systems by leveraging detected objects and actions 
-- Authors: A Nguyen et al. - ICRA 2018 - Revised Time 2024 By Thanh Tuan
+- Authors: A Nguyen et al. - ICRA 2018 - Revised Time 2024 By Thanh Tuan.
 
 
 ### Requirements
