@@ -1,0 +1,14 @@
+progress_bar = tqdm(train_dataloader, colour="blue")
+        for iter, (images, labels) in enumerate(progress_bar):
+            images = images.to(device)
+            labels = labels.to(device).long()
+            # Forward pass
+            predictions = model(images)
+            loss = criterion(predictions, labels)
+
+            # Backward pass + optimize
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+            progress_bar.set_description("Epoch: {}/{}. Loss: {:0.4f}".format(epoch + 1, args.epochs, loss.item()))
+            writer.add_scalar("Train/loss", loss.item(), iter + epoch * len(train_dataloader))
