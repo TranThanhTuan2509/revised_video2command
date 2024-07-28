@@ -1,0 +1,6 @@
+tensorflow==1.14
+pandas==1.2.5
+protobuf==3.20.3
+matplotlib
+tqdm
+
