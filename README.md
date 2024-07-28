@@ -26,8 +26,11 @@
 - You can extract the features for each frames in the input videos using any network (e.g., VGG, ResNet, etc.)
 - For a quick start, the pre-extracted features with ResNet50 is available [here](https://drive.google.com/file/d/1Y_YKHB4Bw6MPXj05S36d1G_3rMx73Uv5/view?usp=sharing). (RECOMMEND OPTION)
 - Run this file if you don't see `subtitle` folder:
-- Changing the path to `./dataset/breakfast` and running `fid_extraction` file
+- Change the path to `./dataset/breakfast` and running `fid_extraction` file if there is no `combine.txt`
 - Extract the file you downloaded to `$VC_Folder`
+- I used " absolute path ", so:
+  - Run `data.io` if `train.pkl` and `test.pkl` are not in the train_test_split folder.
+  - Then, change absolute path of `train.pkl` and `test.pkl` in `main/config.py` 
 - Start training: `python train.py` in `$VC_Folder/main`
 - Here is training structure
 
@@ -57,6 +60,7 @@
 
 ### Predict & evaluate
 - Predict: `python predict.py` in `$VC_Folder/main` folder
+  - Change your absolute path of `saved-model` in `output/BasicLSTM_resnet50_keras_...../log_model`
 - Prepare the results for evaluation: `python prepare_evaluation_format.py` in `$VC_Folder/evaluation` folder
 - Evaluate: `python cocoeval.py` in `$VC_Folder/evaluation` folder
 
