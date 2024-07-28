@@ -26,7 +26,7 @@
 - You can extract the features for each frames in the input videos using any network (e.g., VGG, ResNet, etc.)
 - For a quick start, the pre-extracted features with ResNet50 is available [here](https://drive.google.com/file/d/1Y_YKHB4Bw6MPXj05S36d1G_3rMx73Uv5/view?usp=sharing). (RECOMMEND OPTION)
 - Run this file if you don't see `subtitle` folder:
-- Change the path to `./dataset/breakfast` and running `fid_extraction` file if there is no `combine.txt`
+- Change the path to `./dataset/breakfast` and run `fid_extraction.py` if there is no `combine.txt`
 - Extract the file you downloaded to `$VC_Folder`
 - I used " absolute path ", so:
   - Run `data.io` if `train.pkl` and `test.pkl` are not in the train_test_split folder.
