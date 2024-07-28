@@ -1,0 +1,40 @@
+P50_cam02_P50_cereals_1
+0 44
+lefthand take bowl
+
+P50_cam02_P50_cereals_2
+44 102
+lefthand take cereal box
+
+P50_cam02_P50_cereals_3
+102 199
+bothhand pour cereal to bowl
+
+P50_cam02_P50_cereals_4
+199 239
+lefthand place cereal box
+
+P50_cam02_P50_cereals_5
+239 267
+lefthand take milk box
+
+P50_cam02_P50_cereals_6
+267 310
+lefthand open milk cap
+
+P50_cam02_P50_cereals_7
+310 377
+righthand pour milk to bowl
+
+P50_cam02_P50_cereals_8
+377 410
+lefthand close milk cap
+
+P50_cam02_P50_cereals_9
+410 430
+righthand place milk box
+
+P50_cam02_P50_cereals_10
+430 450
+righthand pull out drawer
+

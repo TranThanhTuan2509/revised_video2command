@@ -1,0 +1,60 @@
+P20_cam01_P20_cereals_1
+0 15
+garbage
+
+P20_cam01_P20_cereals_2
+36 64
+lefthand take bowl
+
+P20_cam01_P20_cereals_3
+64 100
+lefthand take cereal bag
+
+P20_cam01_P20_cereals_4
+100 129
+bothhand open cereal bag
+
+P20_cam01_P20_cereals_5
+129 191
+bothhand pour cereal to bowl
+
+P20_cam01_P20_cereals_6
+191 245
+lefthand place cereal bag
+
+P20_cam01_P20_cereals_7
+245 266
+righthand take milk bottle
+
+P20_cam01_P20_cereals_8
+266 293
+righthand open milk bottle
+
+P20_cam01_P20_cereals_9
+293 363
+righthand pour milk to bowl
+
+P20_cam01_P20_cereals_10
+363 378
+bothhand close milk bottle
+
+P20_cam01_P20_cereals_11
+378 409
+righthand place milk bottle
+
+P20_cam01_P20_cereals_12
+410 438
+righthand open drawer
+
+P20_cam01_P20_cereals_13
+438 458
+righthand take spoon
+
+P20_cam01_P20_cereals_14
+458 493
+righthand stir cereal
+
+P20_cam01_P20_cereals_15
+493 544
+garbage
+

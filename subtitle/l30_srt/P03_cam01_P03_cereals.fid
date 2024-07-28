@@ -1,0 +1,100 @@
+P03_cam01_P03_cereals_1
+0 45
+garbage
+
+P03_cam01_P03_cereals_2
+45 60
+lefthand reach cabinet
+
+P03_cam01_P03_cereals_3
+60 75
+lefthand open cabinet
+
+P03_cam01_P03_cereals_4
+75 120
+lefthand reach bowl
+
+P03_cam01_P03_cereals_5
+120 135
+righthand carry bowl
+
+P03_cam01_P03_cereals_6
+135 165
+righthand close cabinet
+
+P03_cam01_P03_cereals_7
+165 195
+body turn
+
+P03_cam01_P03_cereals_8
+195 225
+lefthand reach cereal
+
+P03_cam01_P03_cereals_9
+225 255
+lefthand carry cereal
+
+P03_cam01_P03_cereals_10
+255 270
+wait
+
+P03_cam01_P03_cereals_11
+270 285
+lefthand move bowl
+
+P03_cam01_P03_cereals_12
+285 390
+bothhand pour cereal
+
+P03_cam01_P03_cereals_13
+390 405
+lefthand carry cereal
+
+P03_cam01_P03_cereals_14
+405 435
+lefthand reach milk
+
+P03_cam01_P03_cereals_15
+435 450
+lefthand open milk cap
+
+P03_cam01_P03_cereals_16
+450 525
+righthand pour milk
+
+P03_cam01_P03_cereals_17
+525 555
+lefthand close milk cap
+
+P03_cam01_P03_cereals_18
+555 570
+lefthand carry milk
+
+P03_cam01_P03_cereals_19
+570 615
+body shift
+
+P03_cam01_P03_cereals_20
+615 630
+lefthand carry spoon
+
+P03_cam01_P03_cereals_21
+630 690
+righthand stir cereal
+
+P03_cam01_P03_cereals_22
+690 780
+wait
+
+P03_cam01_P03_cereals_23
+780 795
+lefthand reach cereal
+
+P03_cam01_P03_cereals_24
+795 818
+lefthand carry cereal
+
+P03_cam01_P03_cereals_25
+818 825
+garbage
+

@@ -1,0 +1,52 @@
+P25_cam01_P25_tea_1
+1 133
+garbage
+
+P25_cam01_P25_tea_2
+133 168
+righthand reach tea bag
+
+P25_cam01_P25_tea_3
+168 234
+bothhand open tea bag
+
+P25_cam01_P25_tea_4
+234 877
+righthand carry tea bag
+
+P25_cam01_P25_tea_5
+877 897
+righthand carry kettle
+
+P25_cam01_P25_tea_6
+897 987
+righthand pour water to cup
+
+P25_cam01_P25_tea_7
+987 1008
+righthand carry kettle
+
+P25_cam01_P25_tea_8
+1008 1047
+lefthand carry tea bag
+
+P25_cam01_P25_tea_9
+1047 1070
+wait
+
+P25_cam01_P25_tea_10
+1070 1095
+body turn
+
+P25_cam01_P25_tea_11
+1095 1122
+righthand reach cup
+
+P25_cam01_P25_tea_12
+1122 1158
+righthand carry cup
+
+P25_cam01_P25_tea_13
+1158 1161
+body walk
+

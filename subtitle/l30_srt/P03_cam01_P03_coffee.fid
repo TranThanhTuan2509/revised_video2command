@@ -1,0 +1,88 @@
+P03_cam01_P03_coffee_1
+0 120
+garbage
+
+P03_cam01_P03_coffee_2
+120 150
+lefthand carry cup
+
+P03_cam01_P03_coffee_3
+150 195
+lefthand close cabinet
+
+P03_cam01_P03_coffee_4
+195 210
+lefthand reach coffee
+
+P03_cam01_P03_coffee_5
+210 240
+lefthand carry coffee
+
+P03_cam01_P03_coffee_6
+240 330
+lefthand pour coffee
+
+P03_cam01_P03_coffee_7
+330 360
+lefthand carry coffee
+
+P03_cam01_P03_coffee_8
+360 390
+body turn
+
+P03_cam01_P03_coffee_9
+390 420
+lefthand open fridge
+
+P03_cam01_P03_coffee_10
+420 435
+righthand close fridge
+
+P03_cam01_P03_coffee_11
+435 465
+righthand carry milk
+
+P03_cam01_P03_coffee_12
+465 480
+lefthand open milk cap
+
+P03_cam01_P03_coffee_13
+480 570
+righthand pour milk
+
+P03_cam01_P03_coffee_14
+570 615
+lefthand close milk cap
+
+P03_cam01_P03_coffee_15
+615 630
+lefthand rotate cup
+
+P03_cam01_P03_coffee_16
+630 675
+body turn
+
+P03_cam01_P03_coffee_17
+675 720
+righthand open fridge
+
+P03_cam01_P03_coffee_18
+720 735
+righthand close fridge
+
+P03_cam01_P03_coffee_19
+735 765
+body turn
+
+P03_cam01_P03_coffee_20
+765 780
+righthand reach cup
+
+P03_cam01_P03_coffee_21
+780 825
+righthand carry cup
+
+P03_cam01_P03_coffee_22
+825 840
+garbage
+

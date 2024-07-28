@@ -1,0 +1,52 @@
+P40_cam02_P40_juice_1
+0 30
+garbage
+
+P40_cam02_P40_juice_2
+30 49
+righthand take juicer
+
+P40_cam02_P40_juice_3
+49 80
+righthand take knife
+
+P40_cam02_P40_juice_4
+80 189
+righthand cut fruit
+
+P40_cam02_P40_juice_5
+189 465
+righthand squeeze fruit
+
+P40_cam02_P40_juice_6
+465 483
+righthand throw fruit
+
+P40_cam02_P40_juice_7
+483 702
+righthand squeeze fruit
+
+P40_cam02_P40_juice_8
+703 728
+righthand throw fruit
+
+P40_cam02_P40_juice_9
+728 763
+righthand take cup
+
+P40_cam02_P40_juice_10
+763 791
+righthand take knife
+
+P40_cam02_P40_juice_11
+855 886
+righthand place knife
+
+P40_cam02_P40_juice_12
+886 970
+lefthand pour juice to cup
+
+P40_cam02_P40_juice_13
+970 990
+righthand place juicer
+

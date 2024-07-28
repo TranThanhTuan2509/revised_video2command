@@ -1,0 +1,56 @@
+P16_cam01_P16_cereals_1
+1 7
+garbage
+
+P16_cam01_P16_cereals_2
+7 43
+bothhand open cereal
+
+P16_cam01_P16_cereals_3
+43 92
+bothhand carry cereal
+
+P16_cam01_P16_cereals_4
+92 152
+bothhand pour cereal
+
+P16_cam01_P16_cereals_5
+152 249
+bothhand close cereal
+
+P16_cam01_P16_cereals_6
+249 268
+lefthand reach milk
+
+P16_cam01_P16_cereals_7
+268 295
+lefthand carry cereal
+
+P16_cam01_P16_cereals_8
+295 334
+righthand open milk bottle
+
+P16_cam01_P16_cereals_9
+334 402
+lefthand pour milk
+
+P16_cam01_P16_cereals_10
+402 455
+righthand close milk bottle
+
+P16_cam01_P16_cereals_11
+455 474
+lefthand carry milk
+
+P16_cam01_P16_cereals_12
+474 489
+righthand reach bowl
+
+P16_cam01_P16_cereals_13
+489 531
+body turn
+
+P16_cam01_P16_cereals_14
+531 543
+garbage
+

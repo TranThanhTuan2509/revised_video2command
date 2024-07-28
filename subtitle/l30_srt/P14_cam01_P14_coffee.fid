@@ -1,0 +1,60 @@
+P14_cam01_P14_coffee_1
+1 10
+garbage
+
+P14_cam01_P14_coffee_2
+10 26
+righthand shift
+
+P14_cam01_P14_coffee_3
+26 44
+righthand carry cup
+
+P14_cam01_P14_coffee_4
+44 62
+lefthand reach coffee
+
+P14_cam01_P14_coffee_5
+62 95
+righthand carry coffee
+
+P14_cam01_P14_coffee_6
+95 153
+righthand pour coffee
+
+P14_cam01_P14_coffee_7
+153 173
+lefthand reach coffee
+
+P14_cam01_P14_coffee_8
+173 189
+body turn
+
+P14_cam01_P14_coffee_9
+189 205
+lefthand carry milk
+
+P14_cam01_P14_coffee_10
+205 219
+lefthand open milk bottle
+
+P14_cam01_P14_coffee_11
+219 256
+righthand pour milk
+
+P14_cam01_P14_coffee_12
+256 295
+lefthand close milk bottle
+
+P14_cam01_P14_coffee_13
+295 324
+righthand carry milk
+
+P14_cam01_P14_coffee_14
+324 350
+righthand carry cup
+
+P14_cam01_P14_coffee_15
+350 365
+garbage
+

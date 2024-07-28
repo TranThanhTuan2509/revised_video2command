@@ -1,0 +1,100 @@
+P35_webcam02_P35_juice_1
+0 47
+move
+
+P35_webcam02_P35_juice_2
+47 69
+righthand take fruit
+
+P35_webcam02_P35_juice_3
+69 90
+move
+
+P35_webcam02_P35_juice_4
+90 105
+righthand take knife
+
+P35_webcam02_P35_juice_5
+105 139
+righthand cut fruit
+
+P35_webcam02_P35_juice_6
+139 153
+righthand place knife
+
+P35_webcam02_P35_juice_7
+153 176
+lefthand take juicer
+
+P35_webcam02_P35_juice_8
+176 386
+righthand squeeze fruit
+
+P35_webcam02_P35_juice_9
+386 410
+righthand place fruit
+
+P35_webcam02_P35_juice_10
+410 428
+righthand take fruit
+
+P35_webcam02_P35_juice_11
+428 653
+righthand squeeze fruit
+
+P35_webcam02_P35_juice_12
+653 679
+righthand place fruit
+
+P35_webcam02_P35_juice_13
+679 726
+righthand take cup
+
+P35_webcam02_P35_juice_14
+726 747
+lefthand take juicer
+
+P35_webcam02_P35_juice_15
+747 809
+bothhand pour juice to cup
+
+P35_webcam02_P35_juice_16
+809 822
+lefthand place juicer
+
+P35_webcam02_P35_juice_17
+822 841
+righthand pull out drawer
+
+P35_webcam02_P35_juice_18
+841 872
+push in drawer
+
+P35_webcam02_P35_juice_19
+872 916
+bothhand carry juicer
+
+P35_webcam02_P35_juice_20
+916 1050
+righthand transfer fruit to cup
+
+P35_webcam02_P35_juice_21
+1050 1066
+lefthand place juicer
+
+P35_webcam02_P35_juice_22
+1066 1137
+lefthand carry juicer
+
+P35_webcam02_P35_juice_23
+1137 1155
+righthand carry cup
+
+P35_webcam02_P35_juice_24
+1155 1186
+move
+
+P35_webcam02_P35_juice_25
+1186 1200
+garbage
+

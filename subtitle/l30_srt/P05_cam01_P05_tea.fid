@@ -1,0 +1,100 @@
+P05_cam01_P05_tea_1
+0 110
+garbage
+
+P05_cam01_P05_tea_2
+110 135
+righthand place water can
+
+P05_cam01_P05_tea_3
+135 193
+righthand place bottle
+
+P05_cam01_P05_tea_4
+193 303
+bothhand open bottle cap
+
+P05_cam01_P05_tea_5
+303 515
+righthand pour water to bottle
+
+P05_cam01_P05_tea_6
+515 550
+body turn
+
+P05_cam01_P05_tea_7
+550 611
+lefthand carry tea box
+
+P05_cam01_P05_tea_8
+611 645
+bothhand open tea box
+
+P05_cam01_P05_tea_9
+645 663
+lefthand place tea box
+
+P05_cam01_P05_tea_10
+663 706
+bothhand open tea bag
+
+P05_cam01_P05_tea_11
+706 732
+bothhand put tea bag to bottle
+
+P05_cam01_P05_tea_12
+732 867
+bothhand close bottle cap
+
+P05_cam01_P05_tea_13
+867 888
+righthand move bottle
+
+P05_cam01_P05_tea_14
+888 987
+wait
+
+P05_cam01_P05_tea_15
+987 1008
+lefthand place cup
+
+P05_cam01_P05_tea_16
+1008 1154
+wait
+
+P05_cam01_P05_tea_17
+1154 1173
+body walk
+
+P05_cam01_P05_tea_18
+1173 1208
+righthand open cabinet
+
+P05_cam01_P05_tea_19
+1208 1248
+righthand pour sugar to bothhand
+
+P05_cam01_P05_tea_20
+1248 1266
+righthand open cabinet
+
+P05_cam01_P05_tea_21
+1266 1316
+righthand close cabinet
+
+P05_cam01_P05_tea_22
+1316 1332
+body walk
+
+P05_cam01_P05_tea_23
+1332 1350
+lefthand pour salt to cup
+
+P05_cam01_P05_tea_24
+1350 1549
+bothhand pour water to cup
+
+P05_cam01_P05_tea_25
+1549 1665
+garbage
+

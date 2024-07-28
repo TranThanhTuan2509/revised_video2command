@@ -1,0 +1,52 @@
+P29_cam01_P29_cereals_1
+0 48
+garbage
+
+P29_cam01_P29_cereals_2
+48 64
+lefthand reach cereal
+
+P29_cam01_P29_cereals_3
+64 81
+lefthand carry cereal
+
+P29_cam01_P29_cereals_4
+81 98
+righthand reach cereal
+
+P29_cam01_P29_cereals_5
+98 194
+bothhand pour cereal to bowl
+
+P29_cam01_P29_cereals_6
+194 233
+lefthand carry cereal
+
+P29_cam01_P29_cereals_7
+233 254
+righthand reach milk
+
+P29_cam01_P29_cereals_8
+254 280
+righthand carry milk
+
+P29_cam01_P29_cereals_9
+280 295
+lefthand open milk
+
+P29_cam01_P29_cereals_10
+295 346
+righthand pour milk to bowl
+
+P29_cam01_P29_cereals_11
+346 372
+lefthand close milk bottle
+
+P29_cam01_P29_cereals_12
+372 404
+righthand carry milk
+
+P29_cam01_P29_cereals_13
+404 435
+garbage
+

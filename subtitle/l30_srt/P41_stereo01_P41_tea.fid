@@ -1,0 +1,80 @@
+P41_stereo01_P41_tea_1
+0 30
+garbage
+
+P41_stereo01_P41_tea_2
+30 79
+righthand take cup
+
+P41_stereo01_P41_tea_3
+79 104
+lefthand open cabinet
+
+P41_stereo01_P41_tea_4
+104 131
+righthand take out spoon
+
+P41_stereo01_P41_tea_5
+131 147
+lefthand close cabinet
+
+P41_stereo01_P41_tea_6
+147 187
+lefthand take tea box
+
+P41_stereo01_P41_tea_7
+187 312
+righthand take teabag
+
+P41_stereo01_P41_tea_8
+312 326
+righthand place tea box
+
+P41_stereo01_P41_tea_9
+326 512
+bothhand open teabag
+
+P41_stereo01_P41_tea_10
+512 539
+righthand carry teabag
+
+P41_stereo01_P41_tea_11
+539 559
+righthand drop teabag into cup
+
+P41_stereo01_P41_tea_12
+559 611
+righthand take kettle
+
+P41_stereo01_P41_tea_13
+611 848
+righthand pour water to cup
+
+P41_stereo01_P41_tea_14
+848 905
+righthand place kettle
+
+P41_stereo01_P41_tea_15
+905 931
+righthand open sugar box
+
+P41_stereo01_P41_tea_16
+931 951
+righthand take sugar bag
+
+P41_stereo01_P41_tea_17
+951 966
+righthand drop sugar to cup
+
+P41_stereo01_P41_tea_18
+966 1016
+righthand stir tea
+
+P41_stereo01_P41_tea_19
+1016 1060
+righthand throw spoon
+
+P41_stereo01_P41_tea_20
+1060 1239
+righthand drop teabag into cup
+

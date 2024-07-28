@@ -1,0 +1,72 @@
+P54_cam02_P54_coffee_1
+0 65
+garbage
+
+P54_cam02_P54_coffee_2
+65 94
+righthand place cup
+
+P54_cam02_P54_coffee_3
+94 126
+righthand take kettle
+
+P54_cam02_P54_coffee_4
+126 263
+righthand pour water to cup
+
+P54_cam02_P54_coffee_5
+263 285
+righthand place kettle
+
+P54_cam02_P54_coffee_6
+285 304
+righthand take milk box
+
+P54_cam02_P54_coffee_7
+304 329
+lefthand open milk cap
+
+P54_cam02_P54_coffee_8
+329 379
+righthand pour milk to cup
+
+P54_cam02_P54_coffee_9
+379 415
+lefthand close milk cap
+
+P54_cam02_P54_coffee_10
+415 428
+righthand place milk box
+
+P54_cam02_P54_coffee_11
+428 449
+righthand take sugar box
+
+P54_cam02_P54_coffee_12
+449 477
+righthand open sugar box
+
+P54_cam02_P54_coffee_13
+477 527
+righthand pour sugar to cup
+
+P54_cam02_P54_coffee_14
+527 589
+righthand close sugar box
+
+P54_cam02_P54_coffee_15
+589 621
+lefthand place sugar box
+
+P54_cam02_P54_coffee_16
+621 631
+righthand carry knife
+
+P54_cam02_P54_coffee_17
+631 688
+righthand stir coffee
+
+P54_cam02_P54_coffee_18
+688 705
+righthand place knife
+

@@ -1,0 +1,140 @@
+P05_cam01_P05_sandwich_1
+0 100
+garbage
+
+P05_cam01_P05_sandwich_2
+100 136
+lefthand place dish
+
+P05_cam01_P05_sandwich_3
+136 179
+bothhand reach bread bag
+
+P05_cam01_P05_sandwich_4
+179 206
+bothhand open bag
+
+P05_cam01_P05_sandwich_5
+207 234
+righthand place bread to dish
+
+P05_cam01_P05_sandwich_6
+234 252
+bothhand close bread bag
+
+P05_cam01_P05_sandwich_7
+252 270
+lefthand place bread bag
+
+P05_cam01_P05_sandwich_8
+270 297
+righthand carry knife
+
+P05_cam01_P05_sandwich_9
+297 500
+bothhand cut bread
+
+P05_cam01_P05_sandwich_10
+500 525
+righthand place knife
+
+P05_cam01_P05_sandwich_11
+525 561
+body walk
+
+P05_cam01_P05_sandwich_12
+561 600
+righthand open fridge
+
+P05_cam01_P05_sandwich_13
+600 750
+lefthand close fridge
+
+P05_cam01_P05_sandwich_14
+750 775
+body walk
+
+P05_cam01_P05_sandwich_15
+775 807
+lefthand place butter box
+
+P05_cam01_P05_sandwich_16
+807 829
+righthand pull drawer
+
+P05_cam01_P05_sandwich_17
+829 888
+righthand carry knife
+
+P05_cam01_P05_sandwich_18
+888 939
+bothhand open butter box
+
+P05_cam01_P05_sandwich_19
+939 1041
+bothhand scoop butter
+
+P05_cam01_P05_sandwich_20
+1041 1264
+bothhand smear butter on bread
+
+P05_cam01_P05_sandwich_21
+1264 1311
+bothhand scoop butter
+
+P05_cam01_P05_sandwich_22
+1311 1509
+bothhand smear butter on bread
+
+P05_cam01_P05_sandwich_23
+1509 1618
+bothhand scoop butter
+
+P05_cam01_P05_sandwich_24
+1618 1757
+bothhand smear butter on bread
+
+P05_cam01_P05_sandwich_25
+1757 1802
+bothhand close butter box
+
+P05_cam01_P05_sandwich_26
+1802 1846
+body walk
+
+P05_cam01_P05_sandwich_27
+1846 1868
+righthand open fridge
+
+P05_cam01_P05_sandwich_28
+1868 1982
+righthand close fridge
+
+P05_cam01_P05_sandwich_29
+1982 2000
+body walk
+
+P05_cam01_P05_sandwich_30
+2000 2032
+lefthand reach topping bag
+
+P05_cam01_P05_sandwich_31
+2032 2116
+bothhand open topping bag
+
+P05_cam01_P05_sandwich_32
+2116 2155
+righthand get topping piece
+
+P05_cam01_P05_sandwich_33
+2155 2457
+bothhand place topping piece on bread
+
+P05_cam01_P05_sandwich_34
+2457 2500
+bothhand carry bread
+
+P05_cam01_P05_sandwich_35
+2500 2744
+garbage
+

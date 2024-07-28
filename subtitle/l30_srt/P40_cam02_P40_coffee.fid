@@ -1,0 +1,44 @@
+P40_cam02_P40_coffee_1
+0 30
+garbage
+
+P40_cam02_P40_coffee_2
+30 61
+righthand take cup
+
+P40_cam02_P40_coffee_3
+61 101
+righthand take kettle
+
+P40_cam02_P40_coffee_4
+101 122
+lefthand open kettle
+
+P40_cam02_P40_coffee_5
+122 228
+righthand pour water to cup
+
+P40_cam02_P40_coffee_6
+228 249
+lefthand close kettle
+
+P40_cam02_P40_coffee_7
+249 286
+righthand place kettle
+
+P40_cam02_P40_coffee_8
+286 310
+lefthand take milk box
+
+P40_cam02_P40_coffee_9
+310 338
+lefthand open milk cap
+
+P40_cam02_P40_coffee_10
+338 390
+righthand pour milk to cup
+
+P40_cam02_P40_coffee_11
+390 405
+lefthand close milk cap
+

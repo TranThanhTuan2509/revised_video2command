@@ -1,0 +1,68 @@
+P26_cam01_P26_cereals_1
+0 55
+garbage
+
+P26_cam01_P26_cereals_2
+55 83
+lefthand reach cereal box
+
+P26_cam01_P26_cereals_3
+83 104
+lefthand carry cereal box
+
+P26_cam01_P26_cereals_4
+104 137
+lefthand open cereal box
+
+P26_cam01_P26_cereals_5
+137 184
+bothhand carry cereal box
+
+P26_cam01_P26_cereals_6
+184 264
+bothhand pour cereal to bowl
+
+P26_cam01_P26_cereals_7
+264 310
+lefthand carry cereal box
+
+P26_cam01_P26_cereals_8
+310 330
+righthand reach milk bottle
+
+P26_cam01_P26_cereals_9
+330 357
+righthand carry milk bottle
+
+P26_cam01_P26_cereals_10
+357 374
+lefthand open milk bottle
+
+P26_cam01_P26_cereals_11
+374 465
+righthand pour milk
+
+P26_cam01_P26_cereals_12
+465 506
+lefthand close milk bottle
+
+P26_cam01_P26_cereals_13
+506 526
+righthand carry milk bottle
+
+P26_cam01_P26_cereals_14
+526 547
+righthand carry spoon
+
+P26_cam01_P26_cereals_15
+547 585
+righthand stir cereal
+
+P26_cam01_P26_cereals_16
+585 632
+bothhand carry bowl
+
+P26_cam01_P26_cereals_17
+632 648
+garbage
+

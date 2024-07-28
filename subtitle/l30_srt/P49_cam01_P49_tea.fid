@@ -1,0 +1,32 @@
+P49_cam01_P49_tea_1
+0 78
+bothhand carry teabag
+
+P49_cam01_P49_tea_2
+78 107
+lefthand drop teabag to cup
+
+P49_cam01_P49_tea_3
+107 128
+move
+
+P49_cam01_P49_tea_4
+128 142
+righthand carry kettle
+
+P49_cam01_P49_tea_5
+142 256
+righthand pour water to cup
+
+P49_cam01_P49_tea_6
+256 266
+righthand carry kettle
+
+P49_cam01_P49_tea_7
+266 340
+move
+
+P49_cam01_P49_tea_8
+340 360
+righthand reach cup
+

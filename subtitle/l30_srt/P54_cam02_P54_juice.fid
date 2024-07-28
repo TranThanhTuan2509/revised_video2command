@@ -1,0 +1,52 @@
+P54_cam02_P54_juice_1
+0 78
+righthand carry fruit
+
+P54_cam02_P54_juice_2
+78 105
+righthand take knife
+
+P54_cam02_P54_juice_3
+105 166
+righthand cut fruit
+
+P54_cam02_P54_juice_4
+166 190
+lefthand carry fruit
+
+P54_cam02_P54_juice_5
+190 413
+righthand squeeze fruit
+
+P54_cam02_P54_juice_6
+413 453
+righthand carry fruit
+
+P54_cam02_P54_juice_7
+453 623
+righthand squeeze fruit
+
+P54_cam02_P54_juice_8
+623 668
+lefthand place fruit
+
+P54_cam02_P54_juice_9
+668 744
+righthand carry spoon
+
+P54_cam02_P54_juice_10
+744 767
+righthand place spoon
+
+P54_cam02_P54_juice_11
+767 809
+lefthand carry juicer
+
+P54_cam02_P54_juice_12
+809 888
+lefthand pour juice to cup
+
+P54_cam02_P54_juice_13
+888 900
+garbage
+

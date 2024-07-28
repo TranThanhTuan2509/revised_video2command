@@ -1,0 +1,48 @@
+P45_webcam01_P45_coffee_1
+0 50
+garbage
+
+P45_webcam01_P45_coffee_2
+50 89
+righthand take coffee container
+
+P45_webcam01_P45_coffee_3
+89 127
+righthand carry coffee container
+
+P45_webcam01_P45_coffee_4
+127 148
+lefthand move cup
+
+P45_webcam01_P45_coffee_5
+148 291
+righthand pour coffee to cup
+
+P45_webcam01_P45_coffee_6
+291 310
+righthand place coffee container
+
+P45_webcam01_P45_coffee_7
+310 362
+lefthand take milk box
+
+P45_webcam01_P45_coffee_8
+362 405
+righthand open milk cap
+
+P45_webcam01_P45_coffee_9
+406 484
+lefthand pour milk to cup
+
+P45_webcam01_P45_coffee_10
+484 521
+righthand close milk cap
+
+P45_webcam01_P45_coffee_11
+521 554
+righthand place milk box
+
+P45_webcam01_P45_coffee_12
+554 575
+righthand reach cup
+

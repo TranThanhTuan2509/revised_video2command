@@ -1,0 +1,56 @@
+P42_cam02_P42_tea_1
+0 30
+garbage
+
+P42_cam02_P42_tea_2
+30 57
+righthand take cup
+
+P42_cam02_P42_tea_3
+57 114
+righthand place cup
+
+P42_cam02_P42_tea_4
+115 313
+righthand take teabag
+
+P42_cam02_P42_tea_5
+313 422
+bothhand open teabag
+
+P42_cam02_P42_tea_6
+422 468
+righthand drop teabag into cup
+
+P42_cam02_P42_tea_7
+468 493
+move
+
+P42_cam02_P42_tea_8
+493 530
+righthand take kettle
+
+P42_cam02_P42_tea_9
+530 800
+righthand pour water to cup
+
+P42_cam02_P42_tea_10
+800 835
+righthand place kettle
+
+P42_cam02_P42_tea_11
+835 880
+righthand hold cup
+
+P42_cam02_P42_tea_12
+880 914
+lefthand hold teabag
+
+P42_cam02_P42_tea_13
+914 957
+righthand carry cup
+
+P42_cam02_P42_tea_14
+957 980
+garbage
+

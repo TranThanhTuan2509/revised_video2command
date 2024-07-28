@@ -1,0 +1,32 @@
+P20_cam01_P20_juice_1
+0 30
+garbage
+
+P20_cam01_P20_juice_2
+30 106
+righthand take knife
+
+P20_cam01_P20_juice_3
+106 132
+lefthand take orange
+
+P20_cam01_P20_juice_4
+132 216
+bothhand cut orange
+
+P20_cam01_P20_juice_5
+216 611
+bothhand squeeze orange
+
+P20_cam01_P20_juice_6
+612 680
+righthand take cup
+
+P20_cam01_P20_juice_7
+680 802
+righthand pour juice to cup
+
+P20_cam01_P20_juice_8
+802 916
+garbage
+

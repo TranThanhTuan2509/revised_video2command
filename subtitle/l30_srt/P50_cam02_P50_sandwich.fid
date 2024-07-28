@@ -1,0 +1,92 @@
+P50_cam02_P50_sandwich_1
+0 30
+garbage
+
+P50_cam02_P50_sandwich_2
+30 54
+lefthand take knife
+
+P50_cam02_P50_sandwich_3
+54 73
+righthand take chopping board
+
+P50_cam02_P50_sandwich_4
+73 91
+righthand take sandwich
+
+P50_cam02_P50_sandwich_5
+91 266
+lefthand cut sandwich
+
+P50_cam02_P50_sandwich_6
+266 293
+lefthand take butter box
+
+P50_cam02_P50_sandwich_7
+293 310
+lefthand place butter box
+
+P50_cam02_P50_sandwich_8
+310 365
+bothhand carry sandwich
+
+P50_cam02_P50_sandwich_9
+365 412
+eat
+
+P50_cam02_P50_sandwich_10
+412 433
+lefthand take butter box
+
+P50_cam02_P50_sandwich_11
+433 457
+lefthand open butter lid
+
+P50_cam02_P50_sandwich_12
+457 476
+lefthand take knife
+
+P50_cam02_P50_sandwich_13
+476 512
+lefthand take butter
+
+P50_cam02_P50_sandwich_14
+512 605
+lefthand spread butter on sandwich
+
+P50_cam02_P50_sandwich_15
+605 644
+lefthand take butter
+
+P50_cam02_P50_sandwich_16
+644 812
+lefthand spread butter on sandwich
+
+P50_cam02_P50_sandwich_17
+812 831
+lefthand place knife
+
+P50_cam02_P50_sandwich_18
+831 877
+lefthand close butter lid
+
+P50_cam02_P50_sandwich_19
+877 979
+lefthand take topping
+
+P50_cam02_P50_sandwich_20
+979 1011
+lefthand place topping on sandwich
+
+P50_cam02_P50_sandwich_21
+1011 1080
+lefthand take topping
+
+P50_cam02_P50_sandwich_22
+1080 1131
+lefthand place topping on sandwich
+
+P50_cam02_P50_sandwich_23
+1131 1156
+garbage
+

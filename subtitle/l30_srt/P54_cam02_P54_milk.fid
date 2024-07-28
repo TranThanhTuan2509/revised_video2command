@@ -1,0 +1,80 @@
+P54_cam02_P54_milk_1
+0 30
+garbage
+
+P54_cam02_P54_milk_2
+30 55
+righthand take cup
+
+P54_cam02_P54_milk_3
+55 70
+righthand take milk box
+
+P54_cam02_P54_milk_4
+70 80
+lefthand open milk cap
+
+P54_cam02_P54_milk_5
+80 155
+righthand pour milk to bowl
+
+P54_cam02_P54_milk_6
+155 200
+lefthand close milk cap
+
+P54_cam02_P54_milk_7
+200 215
+righthand place milk box
+
+P54_cam02_P54_milk_8
+215 235
+righthand take coffee box
+
+P54_cam02_P54_milk_9
+235 295
+righthand open coffee lid
+
+P54_cam02_P54_milk_10
+296 339
+righthand pull out drawer
+
+P54_cam02_P54_milk_11
+339 354
+righthand take spoon
+
+P54_cam02_P54_milk_12
+354 387
+righthand push in drawer
+
+P54_cam02_P54_milk_13
+387 487
+righthand transfer coffee to cup
+
+P54_cam02_P54_milk_14
+487 502
+righthand place spoon
+
+P54_cam02_P54_milk_15
+502 550
+righthand close coffee lid
+
+P54_cam02_P54_milk_16
+550 573
+righthand place coffee box
+
+P54_cam02_P54_milk_17
+573 592
+righthand take sugar can
+
+P54_cam02_P54_milk_18
+592 632
+lefthand pour sugar to cup
+
+P54_cam02_P54_milk_19
+632 658
+righthand place sugar can
+
+P54_cam02_P54_milk_20
+658 747
+righthand stir coffee
+

@@ -1,0 +1,84 @@
+P41_stereo01_P41_juice_1
+0 30
+garbage
+
+P41_stereo01_P41_juice_2
+30 52
+move
+
+P41_stereo01_P41_juice_3
+52 90
+lefthand open cabinet
+
+P41_stereo01_P41_juice_4
+90 126
+lefthand close cabinet
+
+P41_stereo01_P41_juice_5
+126 152
+righthand take fruit
+
+P41_stereo01_P41_juice_6
+152 340
+righthand cut fruit
+
+P41_stereo01_P41_juice_7
+340 370
+lefthand take juicer
+
+P41_stereo01_P41_juice_8
+370 629
+righthand squeeze fruit
+
+P41_stereo01_P41_juice_9
+629 647
+righthand place fruit
+
+P41_stereo01_P41_juice_10
+647 679
+righthand take fruit
+
+P41_stereo01_P41_juice_11
+679 1119
+righthand squeeze fruit
+
+P41_stereo01_P41_juice_12
+1119 1131
+righthand place fruit
+
+P41_stereo01_P41_juice_13
+1131 1169
+lefthand open cabinet
+
+P41_stereo01_P41_juice_14
+1169 1221
+righthand take out cup
+
+P41_stereo01_P41_juice_15
+1221 1233
+lefthand close cabinet
+
+P41_stereo01_P41_juice_16
+1233 1260
+lefthand take juicer
+
+P41_stereo01_P41_juice_17
+1260 1398
+lefthand pour juice to cup
+
+P41_stereo01_P41_juice_18
+1398 1420
+righthand place cup
+
+P41_stereo01_P41_juice_19
+1420 1493
+lefthand carry juicer
+
+P41_stereo01_P41_juice_20
+1493 1508
+lefthand place juicer
+
+P41_stereo01_P41_juice_21
+1508 1582
+garbage
+

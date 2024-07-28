@@ -1,0 +1,100 @@
+P03_cam01_P03_sandwich_1
+0 30
+garbage
+
+P03_cam01_P03_sandwich_2
+30 90
+lefthand reach bread bag
+
+P03_cam01_P03_sandwich_3
+90 105
+bothhand open bread bag
+
+P03_cam01_P03_sandwich_4
+105 150
+lefthand carry bread
+
+P03_cam01_P03_sandwich_5
+150 172
+lefthand close bag
+
+P03_cam01_P03_sandwich_6
+172 255
+lefthand reach knife
+
+P03_cam01_P03_sandwich_7
+255 540
+bothhand cut bread
+
+P03_cam01_P03_sandwich_8
+540 570
+lefthand reach butter bag
+
+P03_cam01_P03_sandwich_9
+570 720
+bothhand open butter bag
+
+P03_cam01_P03_sandwich_10
+720 1065
+bothhand smear butter
+
+P03_cam01_P03_sandwich_11
+1065 1140
+bothhand cut butter
+
+P03_cam01_P03_sandwich_12
+1140 1567
+bothhand smear butter
+
+P03_cam01_P03_sandwich_13
+1567 1650
+bothhand close butter bag
+
+P03_cam01_P03_sandwich_14
+1650 1695
+body turn
+
+P03_cam01_P03_sandwich_15
+1695 1740
+bothhand reach topping
+
+P03_cam01_P03_sandwich_16
+1740 1995
+bothhand open topping
+
+P03_cam01_P03_sandwich_17
+1995 2235
+lefthand put topping bread
+
+P03_cam01_P03_sandwich_18
+2235 2265
+righthand carry topping
+
+P03_cam01_P03_sandwich_19
+2265 2340
+body turn
+
+P03_cam01_P03_sandwich_20
+2340 2392
+lefthand open fridge
+
+P03_cam01_P03_sandwich_21
+2392 2430
+righthand close fridge
+
+P03_cam01_P03_sandwich_22
+2430 2595
+bothhand carry topping
+
+P03_cam01_P03_sandwich_23
+2595 2820
+bothhand open topping
+
+P03_cam01_P03_sandwich_24
+2820 2940
+lefthand put topping bread
+
+P03_cam01_P03_sandwich_25
+2940 3044
+garbage
+

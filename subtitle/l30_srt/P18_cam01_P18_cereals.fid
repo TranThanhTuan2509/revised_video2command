@@ -1,0 +1,60 @@
+P18_cam01_P18_cereals_1
+0 25
+garbage
+
+P18_cam01_P18_cereals_2
+25 43
+lefthand carry cereal
+
+P18_cam01_P18_cereals_3
+43 93
+lefthand open cereal
+
+P18_cam01_P18_cereals_4
+93 145
+righthand pour cereal
+
+P18_cam01_P18_cereals_5
+145 165
+lefthand close cereal
+
+P18_cam01_P18_cereals_6
+165 192
+lefthand carry cereal
+
+P18_cam01_P18_cereals_7
+192 229
+lefthand carry milk
+
+P18_cam01_P18_cereals_8
+229 252
+lefthand open milk bottle
+
+P18_cam01_P18_cereals_9
+252 305
+bothhand pour milk
+
+P18_cam01_P18_cereals_10
+305 338
+lefthand close milk bottle
+
+P18_cam01_P18_cereals_11
+338 365
+lefthand carry milk
+
+P18_cam01_P18_cereals_12
+365 384
+righthand carry spoon
+
+P18_cam01_P18_cereals_13
+384 399
+righthand stir cereal
+
+P18_cam01_P18_cereals_14
+399 426
+righthand carry bowl
+
+P18_cam01_P18_cereals_15
+426 450
+body move
+

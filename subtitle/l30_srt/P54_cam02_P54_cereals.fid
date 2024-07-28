@@ -1,0 +1,60 @@
+P54_cam02_P54_cereals_1
+0 30
+lefthand take cereal box
+
+P54_cam02_P54_cereals_2
+30 75
+bothhand open cereal box
+
+P54_cam02_P54_cereals_3
+75 143
+righthand take out cereal bag
+
+P54_cam02_P54_cereals_4
+143 277
+bothhand pour cereal to bowl
+
+P54_cam02_P54_cereals_5
+277 354
+bothhand carry cereal bag
+
+P54_cam02_P54_cereals_6
+354 382
+righthand place cereal box
+
+P54_cam02_P54_cereals_7
+382 399
+righthand take milk box
+
+P54_cam02_P54_cereals_8
+399 446
+righthand open milk cap
+
+P54_cam02_P54_cereals_9
+446 540
+righthand pour milk to bowl
+
+P54_cam02_P54_cereals_10
+540 578
+righthand close milk cap
+
+P54_cam02_P54_cereals_11
+578 600
+lefthand place milk box
+
+P54_cam02_P54_cereals_12
+600 640
+righthand pull out drawer
+
+P54_cam02_P54_cereals_13
+640 687
+righthand take spoon
+
+P54_cam02_P54_cereals_14
+687 711
+righthand push in drawer
+
+P54_cam02_P54_cereals_15
+711 735
+righthand stir cereal
+

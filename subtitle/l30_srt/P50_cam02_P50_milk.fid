@@ -1,0 +1,80 @@
+P50_cam02_P50_milk_1
+0 30
+garbage
+
+P50_cam02_P50_milk_2
+30 81
+lefthand take milk box
+
+P50_cam02_P50_milk_3
+81 120
+righthand open milk cap
+
+P50_cam02_P50_milk_4
+120 171
+lefthand pour milk to cup
+
+P50_cam02_P50_milk_5
+171 191
+righthand close milk cap
+
+P50_cam02_P50_milk_6
+191 206
+lefthand place milk box
+
+P50_cam02_P50_milk_7
+206 231
+lefthand take coffee can
+
+P50_cam02_P50_milk_8
+231 270
+lefthand open coffee lid
+
+P50_cam02_P50_milk_9
+270 315
+lefthand take spoon
+
+P50_cam02_P50_milk_10
+315 354
+lefthand transfer coffee to cup
+
+P50_cam02_P50_milk_11
+354 394
+lefthand close coffee lid
+
+P50_cam02_P50_milk_12
+394 415
+righthand place coffee can
+
+P50_cam02_P50_milk_13
+415 517
+lefthand stir milk
+
+P50_cam02_P50_milk_14
+517 547
+lefthand take milk box
+
+P50_cam02_P50_milk_15
+547 567
+righthand open milk cap
+
+P50_cam02_P50_milk_16
+567 641
+lefthand pour milk to cup
+
+P50_cam02_P50_milk_17
+641 665
+righthand close milk cap
+
+P50_cam02_P50_milk_18
+665 680
+lefthand place milk box
+
+P50_cam02_P50_milk_19
+680 746
+lefthand stir milk
+
+P50_cam02_P50_milk_20
+746 751
+garbage
+

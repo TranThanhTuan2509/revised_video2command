@@ -1,0 +1,64 @@
+P37_webcam01_P37_milk_1
+0 30
+garbage
+
+P37_webcam01_P37_milk_2
+30 47
+lefthand place spoon
+
+P37_webcam01_P37_milk_3
+47 60
+righthand take sugar can
+
+P37_webcam01_P37_milk_4
+60 89
+righthand open sugar can
+
+P37_webcam01_P37_milk_5
+89 121
+righthand take spoon
+
+P37_webcam01_P37_milk_6
+122 224
+righthand transfer sugar to cup
+
+P37_webcam01_P37_milk_7
+224 292
+righthand close sugar can
+
+P37_webcam01_P37_milk_8
+292 313
+righthand place sugar can
+
+P37_webcam01_P37_milk_9
+313 335
+lefthand take milk box
+
+P37_webcam01_P37_milk_10
+335 375
+lefthand open milk cap
+
+P37_webcam01_P37_milk_11
+375 504
+righthand pour milk to cup
+
+P37_webcam01_P37_milk_12
+504 549
+lefthand close milk cap
+
+P37_webcam01_P37_milk_13
+549 727
+righthand stir milk
+
+P37_webcam01_P37_milk_14
+727 862
+wait
+
+P37_webcam01_P37_milk_15
+862 901
+righthand stir milk
+
+P37_webcam01_P37_milk_16
+901 930
+garbage
+

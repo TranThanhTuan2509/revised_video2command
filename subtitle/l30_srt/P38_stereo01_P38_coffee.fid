@@ -1,0 +1,48 @@
+P38_stereo01_P38_coffee_1
+0 30
+garbage
+
+P38_stereo01_P38_coffee_2
+30 51
+righthand take coffee container
+
+P38_stereo01_P38_coffee_3
+51 81
+lefthand take cup
+
+P38_stereo01_P38_coffee_4
+81 426
+righthand pour coffee to cup
+
+P38_stereo01_P38_coffee_5
+426 475
+righthand place coffee container
+
+P38_stereo01_P38_coffee_6
+475 514
+righthand take milk box
+
+P38_stereo01_P38_coffee_7
+514 537
+lefthand open milk cap
+
+P38_stereo01_P38_coffee_8
+537 609
+righthand pour milk to cup
+
+P38_stereo01_P38_coffee_9
+609 667
+lefthand close milk cap
+
+P38_stereo01_P38_coffee_10
+667 697
+lefthand place milk box
+
+P38_stereo01_P38_coffee_11
+697 730
+righthand carry cup
+
+P38_stereo01_P38_coffee_12
+730 751
+garbage
+

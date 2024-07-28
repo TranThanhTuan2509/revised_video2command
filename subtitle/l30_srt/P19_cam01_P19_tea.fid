@@ -1,0 +1,48 @@
+P19_cam01_P19_tea_1
+0 22
+garbage
+
+P19_cam01_P19_tea_2
+22 39
+righthand carry cup put off
+
+P19_cam01_P19_tea_3
+39 74
+righthand reach kettle
+
+P19_cam01_P19_tea_4
+74 89
+righthand carry kettle
+
+P19_cam01_P19_tea_5
+89 104
+lefthand reach cup
+
+P19_cam01_P19_tea_6
+104 189
+righthand pour water
+
+P19_cam01_P19_tea_7
+189 209
+righthand carry kettle
+
+P19_cam01_P19_tea_8
+209 224
+garbage
+
+P19_cam01_P19_tea_9
+224 261
+bothhand open tea bag
+
+P19_cam01_P19_tea_10
+261 302
+righthand carry teabag to cup
+
+P19_cam01_P19_tea_11
+302 333
+body wait
+
+P19_cam01_P19_tea_12
+333 400
+garbage
+

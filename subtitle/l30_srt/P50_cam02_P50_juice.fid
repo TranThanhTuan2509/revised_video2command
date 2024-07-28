@@ -1,0 +1,88 @@
+P50_cam02_P50_juice_1
+0 30
+garbage
+
+P50_cam02_P50_juice_2
+30 42
+lefthand take chopping board
+
+P50_cam02_P50_juice_3
+42 81
+righthand take fruit
+
+P50_cam02_P50_juice_4
+81 129
+lefthand cut fruit
+
+P50_cam02_P50_juice_5
+129 149
+lefthand place knife
+
+P50_cam02_P50_juice_6
+149 329
+lefthand take juicer
+
+P50_cam02_P50_juice_7
+329 359
+lefthand take fruit
+
+P50_cam02_P50_juice_8
+359 732
+lefthand squeeze fruit
+
+P50_cam02_P50_juice_9
+732 761
+lefthand place fruit
+
+P50_cam02_P50_juice_10
+761 805
+lefthand take fruit
+
+P50_cam02_P50_juice_11
+805 1188
+lefthand squeeze fruit
+
+P50_cam02_P50_juice_12
+1188 1239
+lefthand place fruit
+
+P50_cam02_P50_juice_13
+1239 1288
+righthand push out drawer
+
+P50_cam02_P50_juice_14
+1288 1294
+lefthand take spoon
+
+P50_cam02_P50_juice_15
+1294 1320
+righthand pull in drawer
+
+P50_cam02_P50_juice_16
+1320 1457
+lefthand squeeze fruit
+
+P50_cam02_P50_juice_17
+1457 1528
+lefthand open cabinet
+
+P50_cam02_P50_juice_18
+1528 1575
+righthand place cup
+
+P50_cam02_P50_juice_19
+1575 1704
+bothhand pour juice to cup
+
+P50_cam02_P50_juice_20
+1704 1827
+lefthand transfer fruit to cup
+
+P50_cam02_P50_juice_21
+1827 1880
+righthand place juicer
+
+P50_cam02_P50_juice_22
+1880 1890
+garbage
+

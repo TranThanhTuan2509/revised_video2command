@@ -1,0 +1,84 @@
+P50_cam02_P50_tea_1
+0 30
+garbage
+
+P50_cam02_P50_tea_2
+30 147
+lefthand take cup
+
+P50_cam02_P50_tea_3
+147 171
+lefthand close cabinet
+
+P50_cam02_P50_tea_4
+171 187
+lefthand place cup
+
+P50_cam02_P50_tea_5
+187 226
+lefthand take teabag
+
+P50_cam02_P50_tea_6
+226 365
+bothhand open teabag
+
+P50_cam02_P50_tea_7
+365 378
+lefthand drop teabag to cup
+
+P50_cam02_P50_tea_8
+378 448
+righthand take kettle
+
+P50_cam02_P50_tea_9
+448 591
+righthand pour water to cup
+
+P50_cam02_P50_tea_10
+591 629
+righthand place kettle
+
+P50_cam02_P50_tea_11
+629 669
+lefthand take sugar can
+
+P50_cam02_P50_tea_12
+669 725
+lefthand carry sugar can
+
+P50_cam02_P50_tea_13
+725 755
+righthand pull out drawer
+
+P50_cam02_P50_tea_14
+755 783
+righthand take spoon
+
+P50_cam02_P50_tea_15
+783 814
+righthand push in drawer
+
+P50_cam02_P50_tea_16
+814 854
+lefthand open sugar can
+
+P50_cam02_P50_tea_17
+854 884
+lefthand take sugar
+
+P50_cam02_P50_tea_18
+884 899
+lefthand transfer sugar to cup
+
+P50_cam02_P50_tea_19
+899 963
+lefthand close sugar can
+
+P50_cam02_P50_tea_20
+963 978
+lefthand place sugar can
+
+P50_cam02_P50_tea_21
+978 1021
+garbage
+

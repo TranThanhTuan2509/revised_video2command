@@ -1,0 +1,88 @@
+P41_stereo01_P41_coffee_1
+0 30
+garbage
+
+P41_stereo01_P41_coffee_2
+30 57
+move
+
+P41_stereo01_P41_coffee_3
+57 87
+righthand take cup
+
+P41_stereo01_P41_coffee_4
+87 122
+righthand take kettle
+
+P41_stereo01_P41_coffee_5
+122 144
+lefthand open kettle
+
+P41_stereo01_P41_coffee_6
+144 265
+righthand pour water to cup
+
+P41_stereo01_P41_coffee_7
+265 298
+righthand place kettle
+
+P41_stereo01_P41_coffee_8
+298 324
+righthand open sugar box
+
+P41_stereo01_P41_coffee_9
+324 360
+righthand take sugar bag
+
+P41_stereo01_P41_coffee_10
+360 379
+righthand transfer sugar to cup
+
+P41_stereo01_P41_coffee_11
+379 391
+righthand take sugar bag
+
+P41_stereo01_P41_coffee_12
+391 403
+righthand transfer sugar to cup
+
+P41_stereo01_P41_coffee_13
+403 435
+lefthand take milk box
+
+P41_stereo01_P41_coffee_14
+435 460
+lefthand open milk cap
+
+P41_stereo01_P41_coffee_15
+460 513
+righthand pour milk to cup
+
+P41_stereo01_P41_coffee_16
+513 546
+lefthand close milk cap
+
+P41_stereo01_P41_coffee_17
+546 601
+lefthand open cabinet
+
+P41_stereo01_P41_coffee_18
+601 625
+lefthand close cabinet
+
+P41_stereo01_P41_coffee_19
+625 683
+garbage
+
+P41_stereo01_P41_coffee_20
+683 798
+stir coffee
+
+P41_stereo01_P41_coffee_21
+798 831
+righthand throw spoon
+
+P41_stereo01_P41_coffee_22
+831 870
+garbage
+

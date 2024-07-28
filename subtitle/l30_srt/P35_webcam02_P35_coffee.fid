@@ -1,0 +1,64 @@
+P35_webcam02_P35_coffee_1
+0 30
+garbage
+
+P35_webcam02_P35_coffee_2
+30 49
+move
+
+P35_webcam02_P35_coffee_3
+49 65
+righthand take cup
+
+P35_webcam02_P35_coffee_4
+65 105
+righthand take coffee container
+
+P35_webcam02_P35_coffee_5
+105 168
+righthand pour coffee to cup
+
+P35_webcam02_P35_coffee_6
+168 200
+righthand place coffee container
+
+P35_webcam02_P35_coffee_7
+200 235
+righthand open fridge
+
+P35_webcam02_P35_coffee_8
+235 257
+lefthand take milk box
+
+P35_webcam02_P35_coffee_9
+257 273
+righthand close fridge
+
+P35_webcam02_P35_coffee_10
+273 291
+lefthand open milk cap
+
+P35_webcam02_P35_coffee_11
+291 330
+righthand pour milk to cup
+
+P35_webcam02_P35_coffee_12
+330 361
+lefthand close milk cap
+
+P35_webcam02_P35_coffee_13
+361 380
+righthand open fridge
+
+P35_webcam02_P35_coffee_14
+380 397
+righthand close fridge
+
+P35_webcam02_P35_coffee_15
+397 431
+righthand carry cup
+
+P35_webcam02_P35_coffee_16
+431 437
+garbage
+

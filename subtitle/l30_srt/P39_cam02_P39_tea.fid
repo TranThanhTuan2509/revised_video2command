@@ -1,0 +1,52 @@
+P39_cam02_P39_tea_1
+0 74
+garbage
+
+P39_cam02_P39_tea_2
+74 124
+righthand take cup
+
+P39_cam02_P39_tea_3
+124 170
+lefthand take tea bag
+
+P39_cam02_P39_tea_4
+170 643
+bothhand open tea bag
+
+P39_cam02_P39_tea_5
+643 741
+lefthand take out teabag
+
+P39_cam02_P39_tea_6
+741 774
+bothhand open teabag
+
+P39_cam02_P39_tea_7
+774 793
+lefthand drop teabag into cup
+
+P39_cam02_P39_tea_8
+793 889
+garbage
+
+P39_cam02_P39_tea_9
+889 916
+righthand carry kettle
+
+P39_cam02_P39_tea_10
+916 1064
+righthand pour water to cup
+
+P39_cam02_P39_tea_11
+1064 1222
+righthand place kettle
+
+P39_cam02_P39_tea_12
+1222 1267
+lefthand carry cup
+
+P39_cam02_P39_tea_13
+1267 1290
+garbage
+

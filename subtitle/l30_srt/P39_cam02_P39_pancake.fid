@@ -1,0 +1,288 @@
+P39_cam02_P39_pancake_1
+0 64
+garbage
+
+P39_cam02_P39_pancake_2
+64 103
+righthand carry spatula
+
+P39_cam02_P39_pancake_3
+103 139
+body turn
+
+P39_cam02_P39_pancake_4
+139 169
+righthand take out bowl
+
+P39_cam02_P39_pancake_5
+169 187
+lefthand open cabinet
+
+P39_cam02_P39_pancake_6
+187 254
+righthand take out spoon
+
+P39_cam02_P39_pancake_7
+254 273
+lefthand close cabinet
+
+P39_cam02_P39_pancake_8
+273 325
+lefthand take flour box
+
+P39_cam02_P39_pancake_9
+325 399
+bothhand open flour lid
+
+P39_cam02_P39_pancake_10
+399 521
+righthand take flour
+
+P39_cam02_P39_pancake_11
+521 565
+righthand transfer flour to bowl
+
+P39_cam02_P39_pancake_12
+565 702
+lefthand close flour lid
+
+P39_cam02_P39_pancake_13
+702 733
+righthand place spoon
+
+P39_cam02_P39_pancake_14
+733 766
+righthand take milk box
+
+P39_cam02_P39_pancake_15
+766 797
+lefthand open milk cap
+
+P39_cam02_P39_pancake_16
+797 843
+righthand pour milk to bowl
+
+P39_cam02_P39_pancake_17
+843 872
+lefthand close milk cap
+
+P39_cam02_P39_pancake_18
+872 895
+lefthand place milk box
+
+P39_cam02_P39_pancake_19
+895 925
+righthand take egg
+
+P39_cam02_P39_pancake_20
+925 1025
+righthand crack egg
+
+P39_cam02_P39_pancake_21
+1025 1171
+bothhand transfer egg to bowl
+
+P39_cam02_P39_pancake_22
+1171 1204
+righthand throw eggshell
+
+P39_cam02_P39_pancake_23
+1204 1238
+righthand take spoon
+
+P39_cam02_P39_pancake_24
+1238 3132
+righthand stir pancake
+
+P39_cam02_P39_pancake_25
+3133 3192
+lefthand place pan
+
+P39_cam02_P39_pancake_26
+3192 3216
+righthand place spoon
+
+P39_cam02_P39_pancake_27
+3216 3252
+lefthand carry pan
+
+P39_cam02_P39_pancake_28
+3252 3286
+lefthand take butter box
+
+P39_cam02_P39_pancake_29
+3286 3361
+lefthand open butter lid
+
+P39_cam02_P39_pancake_30
+3361 3395
+righthand take spatula
+
+P39_cam02_P39_pancake_31
+3395 3446
+righthand take butter
+
+P39_cam02_P39_pancake_32
+3446 3479
+righthand transfer butter to pan
+
+P39_cam02_P39_pancake_33
+3479 3556
+righthand close butter lid
+
+P39_cam02_P39_pancake_34
+3556 3588
+lefthand place butter box
+
+P39_cam02_P39_pancake_35
+3588 3622
+lefthand hold pan
+
+P39_cam02_P39_pancake_36
+3622 3641
+righthand turn on stove
+
+P39_cam02_P39_pancake_37
+3641 3701
+lefthand melt butter
+
+P39_cam02_P39_pancake_38
+3701 3729
+righthand take bowl
+
+P39_cam02_P39_pancake_39
+3729 4096
+righthand pour pancake to pan
+
+P39_cam02_P39_pancake_40
+4096 4153
+bothhand place bowl
+
+P39_cam02_P39_pancake_41
+4153 4195
+righthand turn off stove
+
+P39_cam02_P39_pancake_42
+4195 4619
+wait
+
+P39_cam02_P39_pancake_43
+4619 4665
+righthand turn off stove
+
+P39_cam02_P39_pancake_44
+4665 4873
+wait
+
+P39_cam02_P39_pancake_45
+4873 4918
+lefthand carry pan
+
+P39_cam02_P39_pancake_46
+4918 5211
+wait
+
+P39_cam02_P39_pancake_47
+5211 5275
+righthand place butter box
+
+P39_cam02_P39_pancake_48
+5275 5300
+wait
+
+P39_cam02_P39_pancake_49
+5300 5346
+righthand close egg carton
+
+P39_cam02_P39_pancake_50
+5346 5582
+wait
+
+P39_cam02_P39_pancake_51
+5582 5618
+righthand take spatula
+
+P39_cam02_P39_pancake_52
+5618 5797
+righthand cook
+
+P39_cam02_P39_pancake_53
+5797 5833
+righthand place spatula
+
+P39_cam02_P39_pancake_54
+5833 5895
+wait
+
+P39_cam02_P39_pancake_55
+5895 6061
+lefthand carry pan
+
+P39_cam02_P39_pancake_56
+6061 6387
+wait
+
+P39_cam02_P39_pancake_57
+6387 6400
+righthand take spatula
+
+P39_cam02_P39_pancake_58
+6400 8069
+righthand cook
+
+P39_cam02_P39_pancake_59
+8069 8124
+righthand carry spatula
+
+P39_cam02_P39_pancake_60
+8124 8147
+righthand adjust stove
+
+P39_cam02_P39_pancake_61
+8147 8162
+righthand place spatula
+
+P39_cam02_P39_pancake_62
+8162 8180
+righthand turn off stove
+
+P39_cam02_P39_pancake_63
+8180 8389
+lefthand carry pan
+
+P39_cam02_P39_pancake_64
+8389 8415
+righthand take spatula
+
+P39_cam02_P39_pancake_65
+8415 8688
+righthand cook
+
+P39_cam02_P39_pancake_66
+8688 8707
+righthand place spatula
+
+P39_cam02_P39_pancake_67
+8707 8748
+move
+
+P39_cam02_P39_pancake_68
+8748 8807
+bothhand take plate
+
+P39_cam02_P39_pancake_69
+8807 8829
+righthand place spatula
+
+P39_cam02_P39_pancake_70
+8829 8860
+righthand take pancake
+
+P39_cam02_P39_pancake_71
+8860 8913
+righthand transfer pancake to plate
+
+P39_cam02_P39_pancake_72
+8913 8990
+garbage
+

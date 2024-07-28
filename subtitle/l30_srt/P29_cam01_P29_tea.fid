@@ -1,0 +1,52 @@
+P29_cam01_P29_tea_1
+0 56
+garbage
+
+P29_cam01_P29_tea_2
+56 78
+lefthand reach cup
+
+P29_cam01_P29_tea_3
+78 108
+righthand reach tea box
+
+P29_cam01_P29_tea_4
+108 132
+righthand carry tea box
+
+P29_cam01_P29_tea_5
+132 231
+bothhand open tea box
+
+P29_cam01_P29_tea_6
+231 302
+righthand carry tea box
+
+P29_cam01_P29_tea_7
+302 358
+bothhand open tea bag
+
+P29_cam01_P29_tea_8
+358 378
+lefthand transfer tea bag to cup
+
+P29_cam01_P29_tea_9
+378 393
+righthand reach kettle
+
+P29_cam01_P29_tea_10
+393 413
+righthand carry kettle
+
+P29_cam01_P29_tea_11
+413 550
+righthand pour water to cup
+
+P29_cam01_P29_tea_12
+550 589
+righthand carry kettle
+
+P29_cam01_P29_tea_13
+589 630
+garbage
+

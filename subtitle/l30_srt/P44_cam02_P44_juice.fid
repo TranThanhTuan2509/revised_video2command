@@ -1,0 +1,72 @@
+P44_cam02_P44_juice_1
+0 30
+garbage
+
+P44_cam02_P44_juice_2
+30 69
+lefthand take fruit
+
+P44_cam02_P44_juice_3
+69 363
+move
+
+P44_cam02_P44_juice_4
+364 392
+righthand open cabinet
+
+P44_cam02_P44_juice_5
+392 407
+lefthand take out plate
+
+P44_cam02_P44_juice_6
+407 452
+righthand close cabinet
+
+P44_cam02_P44_juice_7
+452 491
+righthand carry fruit
+
+P44_cam02_P44_juice_8
+491 599
+righthand cut fruit
+
+P44_cam02_P44_juice_9
+599 668
+righthand take juicer
+
+P44_cam02_P44_juice_10
+668 1111
+righthand squeeze fruit
+
+P44_cam02_P44_juice_11
+1111 1150
+righthand place fruit
+
+P44_cam02_P44_juice_12
+1150 1195
+lefthand open cabinet
+
+P44_cam02_P44_juice_13
+1195 1285
+righthand take out cup
+
+P44_cam02_P44_juice_14
+1285 1299
+lefthand close cabinet
+
+P44_cam02_P44_juice_15
+1299 1377
+lefthand take juicer
+
+P44_cam02_P44_juice_16
+1377 1467
+righthand pour juice to cup
+
+P44_cam02_P44_juice_17
+1467 1501
+lefthand carry cup
+
+P44_cam02_P44_juice_18
+1501 1515
+garbage
+

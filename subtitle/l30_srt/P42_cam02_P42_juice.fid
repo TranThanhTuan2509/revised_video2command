@@ -1,0 +1,64 @@
+P42_cam02_P42_juice_1
+0 30
+garbage
+
+P42_cam02_P42_juice_2
+30 155
+lefthand open faucet
+
+P42_cam02_P42_juice_3
+155 186
+wash knife
+
+P42_cam02_P42_juice_4
+186 236
+lefthand close faucet
+
+P42_cam02_P42_juice_5
+236 343
+lefthand take fruit
+
+P42_cam02_P42_juice_6
+343 424
+righthand cut fruit
+
+P42_cam02_P42_juice_7
+424 859
+righthand squeeze fruit
+
+P42_cam02_P42_juice_8
+859 891
+body turn
+
+P42_cam02_P42_juice_9
+891 1205
+righthand squeeze fruit
+
+P42_cam02_P42_juice_10
+1205 1236
+body turn
+
+P42_cam02_P42_juice_11
+1236 1271
+move
+
+P42_cam02_P42_juice_12
+1271 1346
+righthand take out cup
+
+P42_cam02_P42_juice_13
+1346 1419
+bothhand carry juicer
+
+P42_cam02_P42_juice_14
+1419 1470
+righthand pour juice to cup
+
+P42_cam02_P42_juice_15
+1470 1501
+righthand place juicer
+
+P42_cam02_P42_juice_16
+1501 1516
+garbage
+

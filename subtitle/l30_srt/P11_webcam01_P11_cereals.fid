@@ -1,0 +1,64 @@
+P11_webcam01_P11_cereals_1
+0 30
+garbage
+
+P11_webcam01_P11_cereals_2
+30 59
+righthand reach cabinet
+
+P11_webcam01_P11_cereals_3
+59 79
+righthand close cabinet
+
+P11_webcam01_P11_cereals_4
+79 95
+righthand reach cereal
+
+P11_webcam01_P11_cereals_5
+95 182
+lefthand carry cereal
+
+P11_webcam01_P11_cereals_6
+182 249
+bothhand pour cereal
+
+P11_webcam01_P11_cereals_7
+249 304
+bothhand move cereal
+
+P11_webcam01_P11_cereals_8
+304 320
+righthand open milk bottle
+
+P11_webcam01_P11_cereals_9
+320 367
+lefthand pour milk
+
+P11_webcam01_P11_cereals_10
+367 384
+righthand close milk bottle
+
+P11_webcam01_P11_cereals_11
+384 403
+lefthand pull drawer
+
+P11_webcam01_P11_cereals_12
+403 424
+lefthand reach spoon
+
+P11_webcam01_P11_cereals_13
+424 442
+righthand push drawer
+
+P11_webcam01_P11_cereals_14
+442 479
+lefthand stir cereal
+
+P11_webcam01_P11_cereals_15
+479 501
+wait
+
+P11_webcam01_P11_cereals_16
+501 524
+garbage
+

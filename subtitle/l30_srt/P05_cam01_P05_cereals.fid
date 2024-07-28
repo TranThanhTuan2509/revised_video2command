@@ -1,0 +1,120 @@
+P05_cam01_P05_cereals_1
+0 168
+garbage
+
+P05_cam01_P05_cereals_2
+168 187
+righthand place dish
+
+P05_cam01_P05_cereals_3
+187 221
+lefthand place bowl on dish
+
+P05_cam01_P05_cereals_4
+221 254
+bothhand move dish
+
+P05_cam01_P05_cereals_5
+254 271
+body walk
+
+P05_cam01_P05_cereals_6
+271 295
+righthand carry cereal box
+
+P05_cam01_P05_cereals_7
+295 334
+bothhand open cereal box
+
+P05_cam01_P05_cereals_8
+334 380
+righthand get cereal bag
+
+P05_cam01_P05_cereals_9
+380 497
+bothhand pour cereal to bowl
+
+P05_cam01_P05_cereals_10
+497 517
+lefthand reach cereal box
+
+P05_cam01_P05_cereals_11
+517 550
+bothhand put cereal bag to cereal box
+
+P05_cam01_P05_cereals_12
+550 612
+bothhand close cereal box
+
+P05_cam01_P05_cereals_13
+612 631
+lefthand move cereal box
+
+P05_cam01_P05_cereals_14
+631 673
+body walk
+
+P05_cam01_P05_cereals_15
+673 698
+righthand open fridge
+
+P05_cam01_P05_cereals_16
+698 728
+righthand close fridge
+
+P05_cam01_P05_cereals_17
+728 756
+lefthand carry milk box
+
+P05_cam01_P05_cereals_18
+756 788
+lefthand place milk box
+
+P05_cam01_P05_cereals_19
+788 843
+righthand carry spoon
+
+P05_cam01_P05_cereals_20
+843 887
+righthand carry milk box
+
+P05_cam01_P05_cereals_21
+887 908
+lefthand open milk cap
+
+P05_cam01_P05_cereals_22
+909 985
+righthand pour milk to bowl
+
+P05_cam01_P05_cereals_23
+985 1009
+lefthand close milk cap
+
+P05_cam01_P05_cereals_24
+1009 1039
+body walk
+
+P05_cam01_P05_cereals_25
+1039 1066
+righthand open fridge
+
+P05_cam01_P05_cereals_26
+1066 1085
+righthand close fridge
+
+P05_cam01_P05_cereals_27
+1085 1120
+body walk
+
+P05_cam01_P05_cereals_28
+1120 1134
+righthand carry spoon
+
+P05_cam01_P05_cereals_29
+1135 1169
+righthand stir cereal
+
+P05_cam01_P05_cereals_30
+1169 1180
+garbage
+

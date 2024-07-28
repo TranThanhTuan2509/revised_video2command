@@ -1,0 +1,68 @@
+P35_webcam02_P35_tea_1
+0 36
+move
+
+P35_webcam02_P35_tea_2
+36 55
+lefthand place cup
+
+P35_webcam02_P35_tea_3
+55 90
+righthand open cabinet
+
+P35_webcam02_P35_tea_4
+90 123
+righthand take out tea box
+
+P35_webcam02_P35_tea_5
+123 145
+righthand take teabag
+
+P35_webcam02_P35_tea_6
+145 160
+righthand close tea box
+
+P35_webcam02_P35_tea_7
+160 183
+righthand place tea box
+
+P35_webcam02_P35_tea_8
+183 209
+righthand close cabinet
+
+P35_webcam02_P35_tea_9
+209 262
+bothhand open teabag
+
+P35_webcam02_P35_tea_10
+262 290
+righthand drop teabag into cup
+
+P35_webcam02_P35_tea_11
+290 310
+righthand take kettle
+
+P35_webcam02_P35_tea_12
+310 389
+righthand pour water to cup
+
+P35_webcam02_P35_tea_13
+389 411
+righthand place kettle
+
+P35_webcam02_P35_tea_14
+411 429
+lefthand carry cup
+
+P35_webcam02_P35_tea_15
+429 450
+move
+
+P35_webcam02_P35_tea_16
+450 470
+lefthand place cup
+
+P35_webcam02_P35_tea_17
+470 484
+garbage
+

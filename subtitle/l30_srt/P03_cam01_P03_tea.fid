@@ -1,0 +1,60 @@
+P03_cam01_P03_tea_1
+0 165
+garbage
+
+P03_cam01_P03_tea_2
+165 187
+lefthand carry cup
+
+P03_cam01_P03_tea_3
+187 240
+lefthand close cabinet
+
+P03_cam01_P03_tea_4
+240 337
+wait
+
+P03_cam01_P03_tea_5
+337 360
+lefthand reach tea box
+
+P03_cam01_P03_tea_6
+360 382
+lefthand open tea box
+
+P03_cam01_P03_tea_7
+382 412
+righthand place tea box
+
+P03_cam01_P03_tea_8
+412 450
+bothhand open kettle
+
+P03_cam01_P03_tea_9
+450 520
+lefthand put kettle cup
+
+P03_cam01_P03_tea_10
+520 918
+wait
+
+P03_cam01_P03_tea_11
+918 970
+righthand reach water can
+
+P03_cam01_P03_tea_12
+970 1073
+righthand pour water cup
+
+P03_cam01_P03_tea_13
+1073 1170
+righthand place water can
+
+P03_cam01_P03_tea_14
+1170 1260
+lefthand carry cup
+
+P03_cam01_P03_tea_15
+1260 1299
+garbage
+

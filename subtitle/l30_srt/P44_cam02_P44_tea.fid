@@ -1,0 +1,60 @@
+P44_cam02_P44_tea_1
+0 13
+garbage
+
+P44_cam02_P44_tea_2
+13 49
+lefthand open cabinet
+
+P44_cam02_P44_tea_3
+49 75
+righthand take out cup
+
+P44_cam02_P44_tea_4
+75 93
+lefthand close cabinet
+
+P44_cam02_P44_tea_5
+93 113
+righthand place cup
+
+P44_cam02_P44_tea_6
+113 201
+bothhand carry teabag
+
+P44_cam02_P44_tea_7
+201 255
+righthand drop teabag into cup
+
+P44_cam02_P44_tea_8
+255 369
+move
+
+P44_cam02_P44_tea_9
+369 385
+righthand carry kettle
+
+P44_cam02_P44_tea_10
+385 533
+righthand pour water to cup
+
+P44_cam02_P44_tea_11
+533 570
+righthand place kettle
+
+P44_cam02_P44_tea_12
+570 719
+wait
+
+P44_cam02_P44_tea_13
+719 835
+move
+
+P44_cam02_P44_tea_14
+835 1082
+wait
+
+P44_cam02_P44_tea_15
+1082 1097
+garbage
+

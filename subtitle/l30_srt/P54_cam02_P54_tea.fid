@@ -1,0 +1,64 @@
+P54_cam02_P54_tea_1
+0 39
+righthand place kettle
+
+P54_cam02_P54_tea_2
+39 75
+garbage
+
+P54_cam02_P54_tea_3
+75 93
+righthand place cup
+
+P54_cam02_P54_tea_4
+93 118
+righthand take kettle
+
+P54_cam02_P54_tea_5
+118 208
+righthand pour water to cup
+
+P54_cam02_P54_tea_6
+208 223
+righthand place kettle
+
+P54_cam02_P54_tea_7
+223 291
+righthand carry teabag
+
+P54_cam02_P54_tea_8
+291 333
+righthand take knife
+
+P54_cam02_P54_tea_9
+333 413
+righthand cut teabag
+
+P54_cam02_P54_tea_10
+413 426
+righthand place knife
+
+P54_cam02_P54_tea_11
+427 620
+bothhand carry teabag
+
+P54_cam02_P54_tea_12
+620 747
+righthand drop teabag into cup
+
+P54_cam02_P54_tea_13
+747 768
+righthand take sugar can
+
+P54_cam02_P54_tea_14
+768 852
+lefthand pour sugar to cup
+
+P54_cam02_P54_tea_15
+852 880
+righthand place sugar can
+
+P54_cam02_P54_tea_16
+880 973
+righthand drop teabag into cup
+

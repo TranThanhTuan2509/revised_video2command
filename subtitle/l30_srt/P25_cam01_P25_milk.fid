@@ -1,0 +1,104 @@
+P25_cam01_P25_milk_1
+1 182
+garbage
+
+P25_cam01_P25_milk_2
+182 199
+body walk
+
+P25_cam01_P25_milk_3
+199 215
+righthand open milk bottle
+
+P25_cam01_P25_milk_4
+215 237
+body move
+
+P25_cam01_P25_milk_5
+237 266
+body walk
+
+P25_cam01_P25_milk_6
+266 353
+wait
+
+P25_cam01_P25_milk_7
+353 381
+righthand carry cup
+
+P25_cam01_P25_milk_8
+381 400
+bothhand reach chocolate bottle
+
+P25_cam01_P25_milk_9
+400 512
+bothhand open chocolate box
+
+P25_cam01_P25_milk_10
+512 527
+righthand carry chocolate bottle
+
+P25_cam01_P25_milk_11
+527 558
+body walk
+
+P25_cam01_P25_milk_12
+558 596
+wait
+
+P25_cam01_P25_milk_13
+596 623
+lefthand carry spoon
+
+P25_cam01_P25_milk_14
+623 639
+righthand reach milk
+
+P25_cam01_P25_milk_15
+639 655
+righthand reach chocolate bottle
+
+P25_cam01_P25_milk_16
+655 676
+righthand carry chocolate bottle
+
+P25_cam01_P25_milk_17
+676 767
+lefthand scoop chocolate bottle
+
+P25_cam01_P25_milk_18
+767 797
+righthand reach milk bottle
+
+P25_cam01_P25_milk_19
+797 821
+righthand carry milk bottle
+
+P25_cam01_P25_milk_20
+821 893
+righthand pour milk to cup
+
+P25_cam01_P25_milk_21
+893 912
+righthand carry milk bottle
+
+P25_cam01_P25_milk_22
+912 1363
+lefthand stir chocolate
+
+P25_cam01_P25_milk_23
+1363 1384
+body shift right
+
+P25_cam01_P25_milk_24
+1384 1401
+lefthand stir chocolate
+
+P25_cam01_P25_milk_25
+1401 1419
+body walk
+
+P25_cam01_P25_milk_26
+1419 1510
+garbage
+

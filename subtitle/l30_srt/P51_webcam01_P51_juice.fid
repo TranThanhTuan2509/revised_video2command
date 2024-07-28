@@ -1,0 +1,68 @@
+P51_webcam01_P51_juice_1
+0 60
+garbage
+
+P51_webcam01_P51_juice_2
+60 105
+righthand take fruit
+
+P51_webcam01_P51_juice_3
+105 226
+bothhand carry fruit
+
+P51_webcam01_P51_juice_4
+226 250
+righthand take knife
+
+P51_webcam01_P51_juice_5
+250 328
+righthand cut fruit
+
+P51_webcam01_P51_juice_6
+328 636
+righthand squeeze fruit
+
+P51_webcam01_P51_juice_7
+636 654
+righthand place fruit
+
+P51_webcam01_P51_juice_8
+654 671
+righthand take fruit
+
+P51_webcam01_P51_juice_9
+671 1026
+righthand squeeze fruit
+
+P51_webcam01_P51_juice_10
+1026 1062
+righthand place fruit
+
+P51_webcam01_P51_juice_11
+1062 1097
+move
+
+P51_webcam01_P51_juice_12
+1097 1211
+wash bothhand
+
+P51_webcam01_P51_juice_13
+1211 1253
+dry bothhand
+
+P51_webcam01_P51_juice_14
+1253 1323
+righthand take cup
+
+P51_webcam01_P51_juice_15
+1323 1435
+righthand pour juice to cup
+
+P51_webcam01_P51_juice_16
+1435 1450
+righthand place juicer
+
+P51_webcam01_P51_juice_17
+1450 1485
+garbage
+

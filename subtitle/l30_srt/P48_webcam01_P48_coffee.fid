@@ -1,0 +1,28 @@
+P48_webcam01_P48_coffee_1
+0 30
+garbage
+
+P48_webcam01_P48_coffee_2
+30 79
+move
+
+P48_webcam01_P48_coffee_3
+79 99
+lefthand take cup
+
+P48_webcam01_P48_coffee_4
+99 123
+righthand take coffee container
+
+P48_webcam01_P48_coffee_5
+123 212
+righthand pour coffee to cup
+
+P48_webcam01_P48_coffee_6
+212 237
+righthand place coffee container
+
+P48_webcam01_P48_coffee_7
+237 270
+lefthand carry cup
+

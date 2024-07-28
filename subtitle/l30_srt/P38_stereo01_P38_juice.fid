@@ -1,0 +1,40 @@
+P38_stereo01_P38_juice_1
+0 30
+righthand take knife
+
+P38_stereo01_P38_juice_2
+30 131
+righthand cut fruit
+
+P38_stereo01_P38_juice_3
+131 153
+righthand place knife
+
+P38_stereo01_P38_juice_4
+153 1154
+righthand squeeze fruit
+
+P38_stereo01_P38_juice_5
+1154 1172
+righthand place fruit
+
+P38_stereo01_P38_juice_6
+1172 1249
+garbage
+
+P38_stereo01_P38_juice_7
+1249 1266
+righthand carry cup
+
+P38_stereo01_P38_juice_8
+1266 1307
+lefthand carry juicer
+
+P38_stereo01_P38_juice_9
+1307 1440
+lefthand pour juice to cup
+
+P38_stereo01_P38_juice_10
+1440 1459
+righthand carry cup
+

@@ -1,0 +1,92 @@
+P03_cam01_P03_milk_1
+0 45
+garbage
+
+P03_cam01_P03_milk_2
+45 75
+lefthand open cabinet
+
+P03_cam01_P03_milk_3
+75 135
+lefthand reach cup
+
+P03_cam01_P03_milk_4
+135 195
+righthand carry cup
+
+P03_cam01_P03_milk_5
+195 225
+lefthand close cabinet
+
+P03_cam01_P03_milk_6
+225 247
+lefthand reach chocolate box
+
+P03_cam01_P03_milk_7
+247 300
+lefthand open chocolate box
+
+P03_cam01_P03_milk_8
+300 330
+lefthand reach spoon
+
+P03_cam01_P03_milk_9
+330 360
+righthand reach chocolate powder
+
+P03_cam01_P03_milk_10
+360 435
+righthand scoop chocolate powder
+
+P03_cam01_P03_milk_11
+435 495
+bothhand close chocolate box
+
+P03_cam01_P03_milk_12
+495 540
+body turn
+
+P03_cam01_P03_milk_13
+540 570
+righthand open fridge
+
+P03_cam01_P03_milk_14
+570 585
+lefthand close fridge
+
+P03_cam01_P03_milk_15
+585 600
+lefthand open milk cap
+
+P03_cam01_P03_milk_16
+600 690
+righthand pour milk
+
+P03_cam01_P03_milk_17
+690 720
+lefthand close milk cap
+
+P03_cam01_P03_milk_18
+720 735
+lefthand carry milk
+
+P03_cam01_P03_milk_19
+735 840
+lefthand reach spoon
+
+P03_cam01_P03_milk_20
+840 870
+lefthand carry spoon
+
+P03_cam01_P03_milk_21
+870 1005
+righthand stir chocolate
+
+P03_cam01_P03_milk_22
+1005 1095
+lefthand carry cup
+
+P03_cam01_P03_milk_23
+1095 1155
+garbage
+

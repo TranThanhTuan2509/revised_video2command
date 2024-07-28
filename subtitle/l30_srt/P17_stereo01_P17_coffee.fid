@@ -1,0 +1,40 @@
+P17_stereo01_P17_coffee_1
+0 61
+garbage
+
+P17_stereo01_P17_coffee_2
+61 76
+lefthand reach cup
+
+P17_stereo01_P17_coffee_3
+76 91
+righthand reach kettle
+
+P17_stereo01_P17_coffee_4
+91 106
+righthand carry coffee
+
+P17_stereo01_P17_coffee_5
+106 122
+righthand pour coffee to cup
+
+P17_stereo01_P17_coffee_6
+122 234
+righthand carry coffee
+
+P17_stereo01_P17_coffee_7
+234 249
+righthand carry cup
+
+P17_stereo01_P17_coffee_8
+249 264
+body turn
+
+P17_stereo01_P17_coffee_9
+264 309
+body walk
+
+P17_stereo01_P17_coffee_10
+309 348
+garbage
+

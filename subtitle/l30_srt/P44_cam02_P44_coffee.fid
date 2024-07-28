@@ -1,0 +1,28 @@
+P44_cam02_P44_coffee_1
+0 30
+garbage
+
+P44_cam02_P44_coffee_2
+30 45
+lefthand take cup
+
+P44_cam02_P44_coffee_3
+45 70
+righthand take coffee container
+
+P44_cam02_P44_coffee_4
+70 157
+righthand pour coffee to cup
+
+P44_cam02_P44_coffee_5
+157 184
+righthand place coffee container
+
+P44_cam02_P44_coffee_6
+184 203
+lefthand carry cup
+
+P44_cam02_P44_coffee_7
+203 212
+garbage
+

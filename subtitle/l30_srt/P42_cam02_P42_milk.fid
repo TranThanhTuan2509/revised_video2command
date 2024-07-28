@@ -1,0 +1,76 @@
+P42_cam02_P42_milk_1
+0 30
+garbage
+
+P42_cam02_P42_milk_2
+30 67
+righthand take out cup
+
+P42_cam02_P42_milk_3
+67 140
+lefthand place cup
+
+P42_cam02_P42_milk_4
+140 200
+righthand take cacao can
+
+P42_cam02_P42_milk_5
+200 242
+lefthand open cacao lid
+
+P42_cam02_P42_milk_6
+242 350
+righthand carry cacao can
+
+P42_cam02_P42_milk_7
+350 375
+lefthand open cabinet
+
+P42_cam02_P42_milk_8
+375 444
+righthand take out spoon
+
+P42_cam02_P42_milk_9
+444 460
+lefthand close cabinet
+
+P42_cam02_P42_milk_10
+460 562
+righthand take cacao
+
+P42_cam02_P42_milk_11
+562 633
+righthand transfer cacao to cup
+
+P42_cam02_P42_milk_12
+633 778
+righthand close cacao lid
+
+P42_cam02_P42_milk_13
+778 864
+righthand place cacao can
+
+P42_cam02_P42_milk_14
+864 897
+lefthand take milk box
+
+P42_cam02_P42_milk_15
+897 935
+lefthand open milk cap
+
+P42_cam02_P42_milk_16
+935 1011
+righthand pour milk to cup
+
+P42_cam02_P42_milk_17
+1011 1060
+lefthand close milk cap
+
+P42_cam02_P42_milk_18
+1060 1086
+lefthand place milk box
+
+P42_cam02_P42_milk_19
+1086 1245
+righthand stir milk
+

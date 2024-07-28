@@ -1,0 +1,44 @@
+P39_cam02_P39_cereals_1
+0 30
+garbage
+
+P39_cam02_P39_cereals_2
+30 70
+righthand take bowl
+
+P39_cam02_P39_cereals_3
+70 128
+lefthand take cereal box
+
+P39_cam02_P39_cereals_4
+128 403
+righthand pour cereal to bowl
+
+P39_cam02_P39_cereals_5
+403 466
+lefthand place cereal box
+
+P39_cam02_P39_cereals_6
+466 496
+lefthand take milk box
+
+P39_cam02_P39_cereals_7
+496 528
+lefthand open milk cap
+
+P39_cam02_P39_cereals_8
+528 590
+righthand pour milk to bowl
+
+P39_cam02_P39_cereals_9
+590 620
+lefthand close milk cap
+
+P39_cam02_P39_cereals_10
+620 660
+lefthand place milk box
+
+P39_cam02_P39_cereals_11
+660 690
+garbage
+

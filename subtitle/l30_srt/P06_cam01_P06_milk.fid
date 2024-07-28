@@ -1,0 +1,76 @@
+P06_cam01_P06_milk_1
+0 15
+garbage
+
+P06_cam01_P06_milk_2
+15 31
+righthand open cabinet
+
+P06_cam01_P06_milk_3
+31 47
+righthand reach cup
+
+P06_cam01_P06_milk_4
+47 66
+righthand carry cup
+
+P06_cam01_P06_milk_5
+66 81
+lefthand close cabinet
+
+P06_cam01_P06_milk_6
+81 105
+lefthand carry spoon
+
+P06_cam01_P06_milk_7
+105 122
+lefthand reach chocolate bottle
+
+P06_cam01_P06_milk_8
+122 173
+righthand open chocolate box
+
+P06_cam01_P06_milk_9
+173 200
+lefthand open milk bottle
+
+P06_cam01_P06_milk_10
+200 217
+move to chocolate bottle
+
+P06_cam01_P06_milk_11
+217 235
+lefthand reach chocolate bottle
+
+P06_cam01_P06_milk_12
+235 290
+righthand scoop chocolate bottle
+
+P06_cam01_P06_milk_13
+290 395
+righthand pour milk to cup
+
+P06_cam01_P06_milk_14
+395 413
+lefthand carry spoon
+
+P06_cam01_P06_milk_15
+413 520
+righthand stir chocolate
+
+P06_cam01_P06_milk_16
+520 539
+righthand carry chocolate box
+
+P06_cam01_P06_milk_17
+539 555
+bothhand close chocolate box
+
+P06_cam01_P06_milk_18
+555 570
+righthand reach cup
+
+P06_cam01_P06_milk_19
+570 585
+garbage
+

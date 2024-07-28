@@ -1,0 +1,76 @@
+P49_cam01_P49_juice_1
+0 80
+garbage
+
+P49_cam01_P49_juice_2
+80 108
+righthand take knife
+
+P49_cam01_P49_juice_3
+108 307
+righthand cut fruit
+
+P49_cam01_P49_juice_4
+307 328
+righthand place knife
+
+P49_cam01_P49_juice_5
+328 362
+lefthand take fruit
+
+P49_cam01_P49_juice_6
+362 460
+righthand squeeze fruit
+
+P49_cam01_P49_juice_7
+460 519
+bothhand hold fruit
+
+P49_cam01_P49_juice_8
+519 647
+righthand squeeze fruit
+
+P49_cam01_P49_juice_9
+647 670
+lefthand take fruit
+
+P49_cam01_P49_juice_10
+670 798
+righthand squeeze fruit
+
+P49_cam01_P49_juice_11
+798 853
+bothhand hold fruit
+
+P49_cam01_P49_juice_12
+853 1089
+righthand squeeze fruit
+
+P49_cam01_P49_juice_13
+1089 1157
+bothhand place fruit
+
+P49_cam01_P49_juice_14
+1157 1217
+lefthand open cabinet
+
+P49_cam01_P49_juice_15
+1217 1233
+lefthand close cabinet
+
+P49_cam01_P49_juice_16
+1233 1253
+righthand take juicer
+
+P49_cam01_P49_juice_17
+1253 1342
+righthand pour juice to cup
+
+P49_cam01_P49_juice_18
+1342 1368
+righthand place juicer
+
+P49_cam01_P49_juice_19
+1368 1385
+garbage
+

@@ -1,0 +1,84 @@
+P41_stereo01_P41_cereals_1
+0 76
+garbage
+
+P41_stereo01_P41_cereals_2
+76 96
+move
+
+P41_stereo01_P41_cereals_3
+96 120
+righthand take bowl
+
+P41_stereo01_P41_cereals_4
+120 146
+lefthand open cabinet
+
+P41_stereo01_P41_cereals_5
+146 194
+righthand take out spoon
+
+P41_stereo01_P41_cereals_6
+194 209
+lefthand close cabinet
+
+P41_stereo01_P41_cereals_7
+209 228
+righthand place spoon
+
+P41_stereo01_P41_cereals_8
+228 252
+righthand take cereal box
+
+P41_stereo01_P41_cereals_9
+252 293
+righthand take out cereal bag
+
+P41_stereo01_P41_cereals_10
+293 476
+righthand pour cereal to bowl
+
+P41_stereo01_P41_cereals_11
+476 522
+righthand carry cereal bag
+
+P41_stereo01_P41_cereals_12
+522 553
+bothhand carry cereal box
+
+P41_stereo01_P41_cereals_13
+553 576
+righthand place cereal box
+
+P41_stereo01_P41_cereals_14
+576 598
+move
+
+P41_stereo01_P41_cereals_15
+598 627
+lefthand take milk box
+
+P41_stereo01_P41_cereals_16
+627 659
+lefthand open milk cap
+
+P41_stereo01_P41_cereals_17
+659 731
+righthand pour milk to bowl
+
+P41_stereo01_P41_cereals_18
+731 761
+lefthand close milk cap
+
+P41_stereo01_P41_cereals_19
+761 778
+righthand place milk box
+
+P41_stereo01_P41_cereals_20
+778 855
+righthand stir cereal
+
+P41_stereo01_P41_cereals_21
+855 872
+garbage
+

@@ -1,0 +1,60 @@
+P43_cam02_P43_juice_1
+0 30
+garbage
+
+P43_cam02_P43_juice_2
+30 47
+lefthand carry fruit
+
+P43_cam02_P43_juice_3
+47 115
+righthand cut fruit
+
+P43_cam02_P43_juice_4
+115 132
+righthand place knife
+
+P43_cam02_P43_juice_5
+132 158
+righthand take juicer
+
+P43_cam02_P43_juice_6
+158 223
+righthand take fruit
+
+P43_cam02_P43_juice_7
+223 736
+righthand squeeze fruit
+
+P43_cam02_P43_juice_8
+736 769
+righthand place fruit
+
+P43_cam02_P43_juice_9
+769 785
+righthand take fruit
+
+P43_cam02_P43_juice_10
+785 1427
+righthand squeeze fruit
+
+P43_cam02_P43_juice_11
+1427 1458
+righthand place fruit
+
+P43_cam02_P43_juice_12
+1458 1506
+righthand take cup
+
+P43_cam02_P43_juice_13
+1506 1556
+bothhand carry juicer
+
+P43_cam02_P43_juice_14
+1556 1609
+righthand pour juice to cup
+
+P43_cam02_P43_juice_15
+1609 1620
+garbage
+

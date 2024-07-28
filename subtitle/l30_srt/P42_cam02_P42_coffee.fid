@@ -1,0 +1,64 @@
+P42_cam02_P42_coffee_1
+0 30
+garbage
+
+P42_cam02_P42_coffee_2
+30 72
+righthand take cup
+
+P42_cam02_P42_coffee_3
+72 123
+lefthand place cup
+
+P42_cam02_P42_coffee_4
+123 159
+righthand take kettle
+
+P42_cam02_P42_coffee_5
+159 318
+righthand pour water to cup
+
+P42_cam02_P42_coffee_6
+318 357
+righthand place kettle
+
+P42_cam02_P42_coffee_7
+357 402
+lefthand take milk box
+
+P42_cam02_P42_coffee_8
+402 449
+lefthand open milk cap
+
+P42_cam02_P42_coffee_9
+449 495
+righthand pour milk to cup
+
+P42_cam02_P42_coffee_10
+495 546
+lefthand close milk cap
+
+P42_cam02_P42_coffee_11
+546 570
+lefthand place milk box
+
+P42_cam02_P42_coffee_12
+570 759
+move
+
+P42_cam02_P42_coffee_13
+759 783
+lefthand open cabinet
+
+P42_cam02_P42_coffee_14
+783 813
+righthand take out spoon
+
+P42_cam02_P42_coffee_15
+813 841
+lefthand close cabinet
+
+P42_cam02_P42_coffee_16
+841 932
+righthand stir coffee
+

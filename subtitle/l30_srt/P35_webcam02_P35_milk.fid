@@ -1,0 +1,92 @@
+P35_webcam02_P35_milk_1
+0 30
+move
+
+P35_webcam02_P35_milk_2
+30 48
+lefthand move cup
+
+P35_webcam02_P35_milk_3
+48 67
+righthand open fridge
+
+P35_webcam02_P35_milk_4
+67 86
+lefthand take milk box
+
+P35_webcam02_P35_milk_5
+86 104
+righthand close fridge
+
+P35_webcam02_P35_milk_6
+104 136
+lefthand place milk box
+
+P35_webcam02_P35_milk_7
+136 156
+righthand pull out drawer
+
+P35_webcam02_P35_milk_8
+156 178
+lefthand push in drawer
+
+P35_webcam02_P35_milk_9
+178 203
+righthand take chocolate can
+
+P35_webcam02_P35_milk_10
+203 218
+righthand open chocolate can
+
+P35_webcam02_P35_milk_11
+218 242
+lefthand carry chocolate can
+
+P35_webcam02_P35_milk_12
+242 265
+righthand take chocolate
+
+P35_webcam02_P35_milk_13
+265 277
+righthand transfer chocolate to cup
+
+P35_webcam02_P35_milk_14
+277 291
+righthand take chocolate
+
+P35_webcam02_P35_milk_15
+291 303
+righthand transfer chocolate to cup
+
+P35_webcam02_P35_milk_16
+303 319
+righthand close chocolate can
+
+P35_webcam02_P35_milk_17
+319 338
+lefthand place chocolate can
+
+P35_webcam02_P35_milk_18
+338 357
+righthand take milk box
+
+P35_webcam02_P35_milk_19
+357 405
+righthand pour milk to cup
+
+P35_webcam02_P35_milk_20
+405 425
+lefthand close milk cap
+
+P35_webcam02_P35_milk_21
+425 499
+righthand stir milk
+
+P35_webcam02_P35_milk_22
+499 541
+move
+
+P35_webcam02_P35_milk_23
+541 570
+garbage
+

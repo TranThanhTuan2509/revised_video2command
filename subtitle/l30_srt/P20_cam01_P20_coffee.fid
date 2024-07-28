@@ -1,0 +1,72 @@
+P20_cam01_P20_coffee_1
+0 30
+garbage
+
+P20_cam01_P20_coffee_2
+30 128
+lefthand take cup
+
+P20_cam01_P20_coffee_3
+128 144
+righthand take kettle
+
+P20_cam01_P20_coffee_4
+144 240
+righthand pour water to cup
+
+P20_cam01_P20_coffee_5
+240 263
+righthand place kettle
+
+P20_cam01_P20_coffee_6
+263 291
+righthand take milk box
+
+P20_cam01_P20_coffee_7
+291 307
+bothhand open milk box
+
+P20_cam01_P20_coffee_8
+307 341
+righthand pour milk to cup
+
+P20_cam01_P20_coffee_9
+341 374
+bothhand close milk box
+
+P20_cam01_P20_coffee_10
+374 387
+righthand place milk box
+
+P20_cam01_P20_coffee_11
+387 424
+righthand take spoon
+
+P20_cam01_P20_coffee_12
+424 443
+righthand take sugar can
+
+P20_cam01_P20_coffee_13
+443 459
+righthand open sugar can
+
+P20_cam01_P20_coffee_14
+459 508
+righthand scoop sugar to cup
+
+P20_cam01_P20_coffee_15
+508 523
+righthand close sugar can
+
+P20_cam01_P20_coffee_16
+523 538
+righthand place sugar can
+
+P20_cam01_P20_coffee_17
+538 612
+righthand stir coffee
+
+P20_cam01_P20_coffee_18
+612 628
+garbage
+

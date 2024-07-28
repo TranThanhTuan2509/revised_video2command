@@ -1,0 +1,48 @@
+P45_webcam01_P45_tea_1
+0 23
+garbage
+
+P45_webcam01_P45_tea_2
+23 58
+righthand take kettle
+
+P45_webcam01_P45_tea_3
+58 128
+righthand pour water to cup
+
+P45_webcam01_P45_tea_4
+128 142
+righthand place kettle
+
+P45_webcam01_P45_tea_5
+142 171
+lefthand take teabag
+
+P45_webcam01_P45_tea_6
+171 263
+bothhand carry teabag
+
+P45_webcam01_P45_tea_7
+263 280
+lefthand place teabag
+
+P45_webcam01_P45_tea_8
+280 306
+bothhand carry teabag
+
+P45_webcam01_P45_tea_9
+306 376
+righthand drop teabag into cup
+
+P45_webcam01_P45_tea_10
+376 390
+wait
+
+P45_webcam01_P45_tea_11
+390 430
+righthand carry cup
+
+P45_webcam01_P45_tea_12
+430 436
+garbage
+

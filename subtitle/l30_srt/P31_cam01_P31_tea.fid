@@ -1,0 +1,100 @@
+P31_cam01_P31_tea_1
+0 37
+garbage
+
+P31_cam01_P31_tea_2
+37 52
+righthand reach cabinet
+
+P31_cam01_P31_tea_3
+52 78
+righthand open cabinet
+
+P31_cam01_P31_tea_4
+78 137
+garbage
+
+P31_cam01_P31_tea_5
+137 171
+righthand reach cup
+
+P31_cam01_P31_tea_6
+171 186
+righthand carry cup
+
+P31_cam01_P31_tea_7
+186 201
+lefthand carry cup
+
+P31_cam01_P31_tea_8
+201 218
+righthand close cabinet
+
+P31_cam01_P31_tea_9
+218 252
+body move
+
+P31_cam01_P31_tea_10
+252 267
+righthand carry tea bag
+
+P31_cam01_P31_tea_11
+267 302
+bothhand open tea bag
+
+P31_cam01_P31_tea_12
+302 317
+body turn
+
+P31_cam01_P31_tea_13
+317 350
+body move
+
+P31_cam01_P31_tea_14
+350 421
+bothhand carry tea bag
+
+P31_cam01_P31_tea_15
+421 436
+righthand reach kettle
+
+P31_cam01_P31_tea_16
+436 460
+righthand carry kettle
+
+P31_cam01_P31_tea_17
+460 485
+lefthand carry cup
+
+P31_cam01_P31_tea_18
+485 675
+righthand pour water
+
+P31_cam01_P31_tea_19
+675 712
+righthand carry kettle
+
+P31_cam01_P31_tea_20
+712 727
+righthand reach tea bag
+
+P31_cam01_P31_tea_21
+727 897
+righthand carry tea bag
+
+P31_cam01_P31_tea_22
+897 1014
+garbage
+
+P31_cam01_P31_tea_23
+1014 1149
+righthand carry teabag
+
+P31_cam01_P31_tea_24
+1149 1185
+wait
+
+P31_cam01_P31_tea_25
+1185 1248
+garbage
+

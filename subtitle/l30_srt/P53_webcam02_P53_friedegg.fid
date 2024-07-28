@@ -1,0 +1,88 @@
+P53_webcam02_P53_friedegg_1
+0 15
+lefthand take egg
+
+P53_webcam02_P53_friedegg_2
+15 40
+righthand take spatula
+
+P53_webcam02_P53_friedegg_3
+40 88
+righthand crack egg
+
+P53_webcam02_P53_friedegg_4
+88 121
+bothhand transfer egg to pan
+
+P53_webcam02_P53_friedegg_5
+121 191
+lefthand carry egg
+
+P53_webcam02_P53_friedegg_6
+191 210
+righthand take salt box
+
+P53_webcam02_P53_friedegg_7
+210 241
+righthand pour salt to pan
+
+P53_webcam02_P53_friedegg_8
+241 255
+righthand place salt box
+
+P53_webcam02_P53_friedegg_9
+255 271
+lefthand take pepper box
+
+P53_webcam02_P53_friedegg_10
+271 451
+bothhand grind pepper
+
+P53_webcam02_P53_friedegg_11
+451 483
+righthand place pepper box
+
+P53_webcam02_P53_friedegg_12
+483 894
+wait
+
+P53_webcam02_P53_friedegg_13
+894 908
+lefthand open cabinet
+
+P53_webcam02_P53_friedegg_14
+908 955
+righthand take plate
+
+P53_webcam02_P53_friedegg_15
+955 981
+righthand hold plate
+
+P53_webcam02_P53_friedegg_16
+981 1019
+righthand place plate
+
+P53_webcam02_P53_friedegg_17
+1019 1330
+wait
+
+P53_webcam02_P53_friedegg_18
+1330 1359
+righthand take spatula
+
+P53_webcam02_P53_friedegg_19
+1359 1585
+righthand fry egg
+
+P53_webcam02_P53_friedegg_20
+1585 1777
+wait
+
+P53_webcam02_P53_friedegg_21
+1777 1861
+righthand fry egg
+
+P53_webcam02_P53_friedegg_22
+1861 1927
+garbage
+

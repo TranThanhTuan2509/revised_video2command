@@ -1,0 +1,72 @@
+P44_cam02_P44_cereals_1
+0 30
+garbage
+
+P44_cam02_P44_cereals_2
+30 53
+righthand open cabinet
+
+P44_cam02_P44_cereals_3
+53 104
+righthand take out bowl
+
+P44_cam02_P44_cereals_4
+104 146
+righthand place bowl
+
+P44_cam02_P44_cereals_5
+146 186
+move
+
+P44_cam02_P44_cereals_6
+186 216
+righthand take cereal box
+
+P44_cam02_P44_cereals_7
+216 250
+righthand open cereal box
+
+P44_cam02_P44_cereals_8
+250 352
+lefthand pour cereal to bowl
+
+P44_cam02_P44_cereals_9
+352 390
+righthand place cereal box
+
+P44_cam02_P44_cereals_10
+390 419
+righthand take milk box
+
+P44_cam02_P44_cereals_11
+419 450
+lefthand open milk cap
+
+P44_cam02_P44_cereals_12
+450 465
+righthand pour milk to bowl
+
+P44_cam02_P44_cereals_13
+465 556
+lefthand close milk cap
+
+P44_cam02_P44_cereals_14
+556 578
+lefthand place milk box
+
+P44_cam02_P44_cereals_15
+578 680
+move
+
+P44_cam02_P44_cereals_16
+680 707
+righthand take spoon
+
+P44_cam02_P44_cereals_17
+707 729
+lefthand carry bowl
+
+P44_cam02_P44_cereals_18
+729 750
+garbage
+
