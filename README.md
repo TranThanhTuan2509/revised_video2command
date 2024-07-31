@@ -1,9 +1,9 @@
 ## [Translating Videos to Commands for Robotic Manipulation with Deep Recurrent Neural Networks](https://arxiv.org/pdf/1710.00290.pdf)
-- Authors: A Nguyen et al. - ICRA 2018 - Revised Time 2024 By Thanh Tuan.
+- Authors: A Nguyen et al. - ICRA 2018 - Revised by Thanh Tuan in 2024.
 
 <p align="center">
   <picture>
-    <img alt="Hugging Face Transformers Library" src="https://raw.githubusercontent.com/nqanh/video2command/master/mics/Video2command1.jpg "video2command"" width="600" height="350" style="max-width: 100%;">
+    <img alt="img" src="https://raw.githubusercontent.com/nqanh/video2command/master/mics/Video2command1.jpg "video2command"" width="600" height="350" style="max-width: 100%;">
   </picture>
 </p>
 
